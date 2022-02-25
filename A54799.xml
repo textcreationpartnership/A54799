@@ -1,0 +1,1728 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The victory of Cupid over the gods and goddesses display'd in several poetical stories / by R. Phillips.</title>
+            <author>Phillips, R.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 82 KB of XML-encoded text transcribed from 34 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54799</idno>
+            <idno type="STC">Wing P2116</idno>
+            <idno type="STC">ESTC R5078</idno>
+            <idno type="EEBO-CITATION">13483560</idno>
+            <idno type="OCLC">ocm 13483560</idno>
+            <idno type="VID">99713</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54799)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99713)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 472:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The victory of Cupid over the gods and goddesses display'd in several poetical stories / by R. Phillips.</title>
+                  <author>Phillips, R.</author>
+                  <author>Phillips, R. Victory of Cupid over the gods and goddesses.</author>
+               </titleStmt>
+               <extent>[12], 54 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Published in 1684 with title: Ten poetical love stories.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99713:1"/>
+            <pb facs="tcp:99713:1"/>
+            <p>THE Victory of Cupid OVER THE GODS AND GODDESSES: DISPLAY'D IN SEVERAL Poetical Stories.</p>
+            <p>By <hi>R. PHILLIPS.</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>Qui</hi> Pugnas &amp; Roſtra <hi>petit</hi> praeſingitur Auro,</l>
+               <l>Vilis Adulator Picto <hi>jacet</hi> Ebrius Oſtro;</l>
+               <l>
+                  <hi>Sola pruinoſis horret</hi> Facundia <hi>pannis,</hi>
+               </l>
+               <bibl>Petr.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Simmons</hi> at the Sign of the <hi>Princes Arms</hi> in <hi>Ludgate-Street</hi> near <hi>Ludgate:</hi> 1683.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:99713:2"/>
+            <pb facs="tcp:99713:2"/>
+            <head>TO HER GRACE The Dutcheſs OF SOMMERSET.</head>
+            <opener>
+               <salute>MADAM,</salute>
+            </opener>
+            <p>WHEN I Conſider the mean<g ref="char:EOLhyphen"/>neſs of this <hi>Offering,</hi> that comes to Proſtrate it ſelf before your Feet, and Conſider your <hi>Greatneſs,</hi> born with <hi>Goodneſs, Pure,</hi> and <hi>White,</hi> as the <hi>Lilly</hi> of the <hi>Valley;</hi> it makes me bluſh at my own <hi>Ambition.</hi> Your <hi>Excellencies</hi> fill the whole <hi>World</hi> with <hi>Admiration,</hi> and your <hi>Virtues</hi> are as <hi>Beauteous</hi> as the <hi>Purple of Kings,</hi> as the <hi>Roy<g ref="char:EOLhyphen"/>al Purple,</hi> which we ſee <hi>Diſtended</hi> like a <hi>Mantle,</hi> all about the <hi>Reſplendent Stars</hi> that <hi>Ennamel,</hi> and <hi>Guild,</hi> the, <hi>Spacious Sky,</hi> more <hi>Beauteous</hi> than <hi>Proſperity,</hi> that is
+<pb facs="tcp:99713:3"/>
+               <hi>Embroydered</hi> with <hi>Jewels</hi> by the <hi>Fingers of Fortune.</hi> Theſe have <hi>Darts</hi> ſo <hi>Sharp,</hi> and <hi>Flaming,</hi> that like the <hi>Stone Ceraunia,</hi> they <hi>Dazle</hi> all <hi>Eyes;</hi> They are <hi>Mountains</hi> of <hi>Per<g ref="char:EOLhyphen"/>fume,</hi> they are <hi>Suns,</hi> that are <hi>wholly Radiant,</hi> that bring <hi>Light,</hi> and <hi>Life,</hi> and imprint <hi>Perfections</hi> more Curious than <hi>Figures,</hi> more Curious than the <hi>Colours</hi> of the <hi>Rainbow;</hi> and are all as Natural, as <hi>Flight</hi> to <hi>Birds,</hi> or <hi>Beauty,</hi> to <hi>Flowers.</hi> He that would equal this <hi>Worth,</hi> ſhould, he draw from <hi>Minerals</hi> the <hi>Riches</hi> that the <hi>Earth</hi> hideth in its <hi>Veins,</hi> would rather find <hi>Inſufficiency</hi> in his <hi>Purpoſe,</hi> than want of <hi>Merit</hi> in his <hi>Subject.</hi>
+            </p>
+            <q>
+               <l>Then who is he that can Enchaſe your Fame?</l>
+               <l>Behind your Glories we muſt lag with Shame,</l>
+               <l>As if the Numerous-Feet of Verſe were Lame.</l>
+            </q>
+            <p>Thus do you ſeem to be form'd by Hands of <hi>Angels,</hi> unfit therefore to be diſplay'd by the unable Pencil of</p>
+            <closer>
+               <salute>Madam,</salute>
+               <signed>your moſt Humble, Moſt Obedient, and moſt Devoted Servant, <hi>R. PHILLIPS.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:99713:3"/>
+            <head>THE PREFACE TO THE READER</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <hi>WHEN</hi> Jupiters Daugh<g ref="char:EOLhyphen"/>ters <hi>were Married to the</hi> Gods (the Muſes alone) <hi>were left ſolitary.</hi> Helli<g ref="char:EOLhyphen"/>con, <hi>that was the</hi> Principal Fountain, <hi>and</hi> Stream, <hi>from whence</hi> flow'd Rivers
+<pb facs="tcp:99713:4"/>of Wit, and Eloquence, <hi>was for<g ref="char:EOLhyphen"/>ſaken of all her</hi> Suitors, <hi>the reaſon was, becauſe they were not</hi> Fortunes.</p>
+            <q>
+               <l>
+                  <hi>Calliope</hi> longum Caelebs tur vixit in evum?</l>
+               <l>Nempe nihil Dotis quod numeraret, erat.</l>
+            </q>
+            <q>
+               <l>Why did <hi>Calliope</hi> live long a Maid?</l>
+               <l>Becauſe ſhe had no <hi>Portion</hi> to be paid.</l>
+            </q>
+            <p>
+               <hi>Many came to ſee</hi> Pſyche <hi>the</hi> Glory <hi>of her Time, they all did commend, and ad<g ref="char:EOLhyphen"/>mire her,</hi> (<hi>but no otherwiſe then as ſome</hi> Curious Picture) <hi>none would Mar<g ref="char:EOLhyphen"/>ry her,</hi> Pſyche <hi>was</hi> Fair, (<hi>exceeding</hi> Fair,) <hi>but not</hi> Rich; (<hi>ſo kindly is</hi> Beauty and Wit, <hi>treated by the</hi> ob<g ref="char:EOLhyphen"/>liging World.)</p>
+            <p>
+               <hi>In all Ages there have been Complaints of the ill ſucceſs that Writers have had, (to evence the Truth of which) I could bring in ſuch a</hi> Recruit, <hi>ſuch a</hi> Regiment of
+<pb facs="tcp:99713:4"/>Mouldy Authors, <hi>that were ſufficient to</hi> ſcare, <hi>and</hi> frighten <hi>us;</hi> Authors <hi>that have not ſeen the</hi> Comfortable-Light, <hi>ſince</hi> Norman-Spiders <hi>came in with the</hi> Conquerour, <hi>but will you hear what</hi> Cowley <hi>ſays?</hi>
+            </p>
+            <q>
+               <l>— To me alone</l>
+               <l>One of old <hi>Gideon</hi>'s Miracles was ſhown.</l>
+               <l>For every <hi>Tree,</hi> and every <hi>Herb,</hi> around</l>
+               <l>With <hi>Pearly-Dew,</hi> is ſometimes <hi>Crown'd,</hi>
+               </l>
+               <l>And upon all the <hi>Quickning-Ground</hi>
+               </l>
+               <l>The <hi>Fruitful-Seed</hi> of Heav'n did <hi>Brooding</hi> lie,</l>
+               <l>And nothing but the <hi>Muſes-Fleece</hi> was dry.</l>
+            </q>
+            <p>Cleanthes <hi>pull'd of his</hi> Philoſo<g ref="char:EOLhyphen"/>phers Gown, <hi>and put on a</hi> Miller<hi>'s</hi> Coat; <hi>he thought (it ſeems) any courſe of Life better then to follow</hi> Philoſophy, <hi>and</hi> Study, <hi>that had ſuch little Encou<g ref="char:EOLhyphen"/>ragement, and ſuch mighty Labour, for</hi>
+            </p>
+            <q>
+               <l>Ardua via eſt, &amp; quae vix mane recentes</l>
+               <l>Enituntur equi, <hi>Pirois, Eois,</hi> &amp; <hi>Aethon.</hi>
+               </l>
+               <l>
+                  <pb facs="tcp:99713:5"/>Invitatus ad hec aliquis de Ponte negabit.</l>
+            </q>
+            <p>
+               <hi>The meaneſt Vaſſal, if he knew the incon<g ref="char:EOLhyphen"/>veniency, had cauſe to refuſe it.</hi>
+            </p>
+            <p>
+               <hi>Notwithſtanding, ſince we have entred upon</hi> Poetry, <hi>it is convenient that there be ſomething ſpoken in the praiſe of it, which I ſhall do very briefly.</hi> Poetry <hi>is of moſt ex<g ref="char:EOLhyphen"/>cellent uſe, 'tis a great</hi> Refiner <hi>of</hi> Lan<g ref="char:EOLhyphen"/>guage, <hi>and a great help to</hi> Wit, <hi>where</hi> Fancy, <hi>like the</hi> Sun-ſhine, <hi>plays up<g ref="char:EOLhyphen"/>on the</hi> Waters: <hi>it is a</hi> Garden <hi>of</hi> Plea<g ref="char:EOLhyphen"/>ſant Flowers, <hi>and</hi> Flouriſhing-Fruit. <hi>And</hi>
+            </p>
+            <q>
+               <l>Who that has <hi>Reaſon,</hi> and his <hi>Smell,</hi>
+               </l>
+               <l>Would not with <hi>Roſes,</hi> and with <hi>Tulips</hi> dwell?</l>
+            </q>
+            <p>
+               <hi>It is as Powerful as an</hi> Alchimiſt, <hi>'tis able to</hi> Turn <hi>the</hi> Dulleſt-Earthy
+<pb facs="tcp:99713:5"/>Proſe <hi>into</hi> Glittering Gold.</p>
+            <p>
+               <hi>An</hi> Ingenious Painter, <hi>that</hi> Por<g ref="char:EOLhyphen"/>traied Medea <hi>Killing her own Child (made very ſtrangely) two</hi> contrary Af<g ref="char:EOLhyphen"/>fections <hi>appear in her</hi> Face, <hi>for in the one ſide, he expreſſed</hi> extream-Fury, <hi>which bid her</hi> Kill, <hi>and on the other ſide,</hi> Motherly-Love, Kindneſs, <hi>and</hi> Pity, <hi>which bid her</hi> not Kill; <hi>In like manner, two ſuch</hi> contrary Affections, <hi>can by this</hi> Art <hi>be Painted forth.</hi>
+            </p>
+            <p>
+               <hi>But</hi> Poets <hi>like</hi> Silk-Worms, <hi>muſt</hi> Spin their thoughts (<hi>with</hi> Toil, <hi>and</hi> Care) <hi>into the fineſt</hi> Threds, <hi>(that they may pleaſe all) before they venture to take</hi> Wings, <hi>and</hi> ſoar abroad: <hi>like</hi> Cauſin's Smith, <hi>they muſt</hi> Sweat, <hi>and</hi> Labour, <hi>and be try'd in the</hi> Fire of the Schools, <hi>before</hi> their Plates (their Works) <hi>can</hi> Shine <hi>on the</hi> Cupboard <hi>of the</hi> Prince. <hi>Now</hi>
+            </p>
+            <q>
+               <pb facs="tcp:99713:6"/>Quid <hi>tantum</hi> inſanis juvat <hi>impalleſcere Chartis?</hi>
+            </q>
+            <q>To what end is this?</q>
+            <q>
+               <l>Dat <hi>Gallenes</hi> Opes, dat <hi>Juſtinianus</hi> Honores,</l>
+               <l>Sed Genus, &amp; ſpecies cogitur ire pedes.</l>
+            </q>
+            <q>
+               <l>
+                  <hi>The</hi> Rich Phyſitian's, <hi>Honour'd</hi>-Lawyers <hi>Ride,</hi>
+               </l>
+               <l>
+                  <hi>While the</hi> Poor Schollar <hi>foots it by their ſide.</hi>
+               </l>
+            </q>
+            <p>
+               <hi>When</hi> Learning was young (<hi>while ſhe lay yet in her</hi> Cradle) <hi>they brought her Preſents from all parts of the</hi> Earth, <hi>but after ſhe grew</hi> Ripe, <hi>and they had her</hi> Beauties in poſſeſſion, <hi>and</hi> rifled <hi>her of all her</hi> Precious Jewels, <hi>they were ſoon ſatisfied with her</hi> Love; <hi>But now they are ſo much</hi> Cloyed, <hi>and</hi> Glutted, <hi>they begin to find fault, and complain, that her</hi> Face (like Amphitrites) <hi>appears full of</hi> Wrincles.— <hi>Thus did the fooliſh</hi> Sol<g ref="char:EOLhyphen"/>diers <hi>of</hi> Rome, <hi>they Rebell<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d againſt their</hi> Emperor Otho, <hi>becauſe he was old.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:99713:6"/>
+               <hi>The Truth is, there are ſo many</hi> Paper Bullets <hi>of the</hi> Brain, <hi>that continually</hi> Fly, <hi>and</hi> whize, <hi>about the</hi> Ears of Au<g ref="char:EOLhyphen"/>thors, <hi>that the Wiſer ſort of Men lock up their</hi> Conceits <hi>in the</hi> Cloſets <hi>of their own</hi> Noddles, <hi>and will not venture them abroad, for fear of</hi> (Bellua multorum Capitum) <hi>the many headed Monſter, for fear of a</hi> Ho-bub, <hi>and for fear they ſhould walk</hi> (<hi>like</hi> Sir Acteon <hi>the</hi> Cuck<g ref="char:EOLhyphen"/>old) with Ringwood at their Heels, <hi>and for fear of</hi> Sejanus <hi>his</hi> Fate, <hi>whom that very Day the</hi> Senate <hi>conducted with</hi> Honour, <hi>the People tore in pieces with</hi> Fury; <hi>and he, vvhom the</hi> Gods <hi>and</hi> Men <hi>had once, loaded with as many</hi> Ho<g ref="char:EOLhyphen"/>nours, <hi>as poſsibly could be heapt on him, had not a</hi> Mammock <hi>left for the Hang<g ref="char:EOLhyphen"/>man to faſten bis Hook in.</hi>
+            </p>
+            <closer>
+               <salute>Farewell</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:99713:7"/>
+            <pb n="1" facs="tcp:99713:7"/>
+            <head>Pluto &amp; Proſerpina.</head>
+            <argument>
+               <head>THE ARGUMENT,</head>
+               <p>
+                  <hi>Proſerpina</hi> the Daughter of <hi>Jupiter;</hi> and <hi>Ceres</hi> was ſtole away by <hi>Pluto,</hi> as ſhe was gathering Flowers; <hi>Ceres</hi> (her Mo<g ref="char:EOLhyphen"/>ther) ſought for her, and hearing ſhe was in Hell, went thither, got her Daughter releas'd, and obtain'd of <hi>Jupiter,</hi> that ſhe might have her ſix moneths, and the other ſix ſhe was to remain with <hi>Pluto.</hi>
+               </p>
+            </argument>
+            <l>THERE is a Grove cloath'd in eternal green,</l>
+            <l>Where all the Glories of the Spring are ſeen.</l>
+            <l>Where the Ground ſmiles with Starry-flowers, and where</l>
+            <l>The faireſt <hi>Scions</hi> flouriſh all the year.</l>
+            <l>
+               <pb n="2" facs="tcp:99713:8"/>Where <hi>Nightingales</hi> upon the bending Spraies,</l>
+            <l>To ſolitary Lovers chaint their Laies.</l>
+            <l>At break of Day in a Melodious Song,</l>
+            <l>They teach the <hi>Gamut</hi> to their tender Young,</l>
+            <l>And warbling out their Leſſon (turn by turn,)</l>
+            <l>Sweetly they Sing, and Court the modeſt Morn.</l>
+            <l>Their Divine Notes in a Reſpondence meet,</l>
+            <l>Like to the fall of Waters, ſoft and ſweet.</l>
+            <l>When they in murmurs to the Wind do Call,</l>
+            <l>The gentle Wind in Whiſpers anſwering all.</l>
+            <l>Here Longing Beauties bluſhing Fruit may reach,</l>
+            <l>The <hi>Downy-Quince, Gilt-Orange, Velvet-Peach.</hi>
+            </l>
+            <l>Here grew the <hi>Purple,</hi> kind Embracing Vine,</l>
+            <l>Courting the Eye to taſte its luſhious Wine,</l>
+            <l>Whoſe tender Boughs unto the Hand incline,</l>
+            <l>Some like the <hi>Ruby,</hi> laughing ſweetly Red.</l>
+            <l>Some like the <hi>Emrald</hi> not yet Ripened.</l>
+            <l>And ſome in lovely ſhining Colours dreſt,</l>
+            <l>Like Burniſht Gold to beautify the reſt.</l>
+            <l>Here <hi>Mulburies,</hi> and <hi>Musky-Apples</hi> hung,</l>
+            <l>There <hi>Cinamon,</hi> and other Spices ſprung.</l>
+            <l>Here weeps the Balſome, there the Tree, from whence</l>
+            <l>
+               <hi>Arabians</hi> fetcht Perfuming <hi>Frankenſenſe.</hi>
+            </l>
+            <l>Here <hi>Spikenard, Mirrh,</hi> there <hi>Mirtle</hi> we behold,</l>
+            <l>Here <hi>Cullumbine,</hi> and there the <hi>Marygold.</hi>
+            </l>
+            <l>
+               <pb n="3" facs="tcp:99713:8"/>Here the pale <hi>Lillie,</hi> Lady of the Field,</l>
+            <l>There <hi>Jeſſamine</hi> refreſhing Sweets doth yield.</l>
+            <l>Here the <hi>Carnations,</hi> and the <hi>Roſes</hi> grew,</l>
+            <l>There blew-Ey'd <hi>Violets</hi> (of a Heavenly hew.)</l>
+            <l>VVith all the Ornaments of <hi>Flora's</hi> Pride</l>
+            <l>Appearing like ſome ſtately Pompious Bride.</l>
+            <l>That does in ſpight of Niggard-Natures ſcorn,</l>
+            <l>Moſt Laviſhly her lovely Limbs adorn.</l>
+            <l>And in the midſt of all a Fountain ſtood</l>
+            <l>So pure and ſhiny, that the Silver Flood</l>
+            <l>Intic'd the Sun-burnt <hi>Pilgrim</hi> to his ſeat,</l>
+            <l>VVhoſe cooling Streams refreſht his thirſty heat.</l>
+            <l>VVhile creeping Slumbers made him forget</l>
+            <l>All his paſt wearineſs, and toilſome ſweat.</l>
+            <l>Here was a work of admirable VVit,</l>
+            <l>The Antick Story of <hi>Medea</hi> writ</l>
+            <l>Her Magick Charms, her furious loving Fit.</l>
+            <l>About her Twining-Ivy <hi>Irid</hi> to Creep,</l>
+            <l>Dipping its Leaves in the fair Silver-Deep,</l>
+            <l>VVhoſe Drops did ſeem for wantonneſs to weep.</l>
+            <l>The fair <hi>Proſerpina</hi> came here to ſee</l>
+            <l>The Gaudy Spring in all its Bravery.</l>
+            <l>In yonder Bank ſweet <hi>Eglantine</hi> ſhe pulls,</l>
+            <l>And here and there Enamell'd <hi>Tulips</hi> culls.</l>
+            <l>This Beauty was in every part Divine,</l>
+            <l>In her bright Eyes, two living Lamps did ſhine.</l>
+            <l>
+               <pb n="4" facs="tcp:99713:9"/>But from thoſe Lamps conſuming flames did paſs,</l>
+            <l>As Radiant Beams pierce through a Burning-glaſs.</l>
+            <l>Her Ivory Fore-head like a Tower, ſtood high,</l>
+            <l>And bore a ſweet, yet lofty Majeſty.</l>
+            <l>Between her ev'n Brows, Great <hi>Cupid</hi> ſat</l>
+            <l>VVorking <hi>Belgards,</hi> and making a Retreat.</l>
+            <l>Her ſoft white Boſome as with Curtains drawn,</l>
+            <l>VVas covered with tranſparent Cobweb-<hi>Lawn.</hi>
+            </l>
+            <l>Her Robe Skie-colour'd Silk, with a Rich Cawl</l>
+            <l>Of Golden-twiſt, like Net-work over All.</l>
+            <l>VVhen ſhe appear'd, the Flowers lookt ſtrangely pale,</l>
+            <l>Her Beauty made the Beauteous Morning Scale.</l>
+            <l>She lookt like ſome bright Angel, when our Eyes</l>
+            <l>Fall back to gaze, while he aſcends the Skies.</l>
+            <l>While the VVing'd-Meſſenger (the Heavenly fair)</l>
+            <l>Beſtrides the Clouds, and Sails upon the Air.</l>
+            <l>
+               <hi>Pluto</hi> this Beauty in his Arms doth take,</l>
+            <l>And hurries with her to the <hi>Stigian-Lake.</hi>
+            </l>
+            <l>The Bird that knows not the falſe <hi>Fowler</hi>'s Call,</l>
+            <l>Into his Net unhappily may Fall.</l>
+            <l>Near to the <hi>Grove</hi> his Chariot ready ſtood,</l>
+            <l>VVith Coal-black Steeds, Born of a Helliſh Brood.</l>
+            <l>Who proudly ſhake their Mains, yerk out their Heels,</l>
+            <l>But at the VVind, and beat the humble Fields.</l>
+            <l>Theſe to the Gulph of deep <hi>Avernus</hi> pace,</l>
+            <l>VVhere Smoke and Sulphur cover all the place.</l>
+            <l>
+               <pb n="5" facs="tcp:99713:9"/>So if ſome fair new Veſſel ſhew her Pride,</l>
+            <l>Her Flags and Streamers to the ſwelling Tide.</l>
+            <l>She that was for ſome Admiral deſign'd,</l>
+            <l>Some Noble <hi>Heroe,</hi> Youthful, Fair and Kind,</l>
+            <l>Is ſnatcht and ruffled by the Strumpet Wind.</l>
+            <l>Sees her beloved Man of War no more,</l>
+            <l>Nor any Hav'n, nor the Green-watchet Shoar,</l>
+            <l>But carried where the diſmal Waters Roar,</l>
+            <l>Muſt all her Honour, and her Beauties looſe,</l>
+            <l>And lie with the old wrinckled Treacherous Ooze.</l>
+            <l>Inſtead of pleaſant Fountains, Flowers, and Trees,</l>
+            <l>Nothing but howling Fiends, and Ghoſts, ſhe ſees.</l>
+            <l>Chattering their Iron Teeth, and ſtaring wide,</l>
+            <l>Making ſad Groans, Eccho on every ſide.</l>
+            <l>The Direful Diſtaff here was plac'd by Fate,</l>
+            <l>To meaſure out to each his outmoſt Date.</l>
+            <l>The Fatal Siſters ſitting round about,</l>
+            <l>With their unwearied Fingers drawing out</l>
+            <l>The Lines of Life, and by their Magick Spell,</l>
+            <l>Taking a Proſpect of Man's Cittadel.</l>
+            <l>The Sacred Thred which doth the Soul detain,</l>
+            <l>By griſly <hi>Lacheſis</hi> is ſpun in pain,</l>
+            <l>Sad <hi>Clotho</hi> holds the Rock, while the keen Knife</l>
+            <l>Of <hi>Atropos,</hi> cutteth the Twiſt of Life.</l>
+            <l>Here all about the diſmal gloomy Place,</l>
+            <l>Limn'd to die Life, was <hi>Diſobedience</hi> Face.</l>
+            <l>
+               <pb n="6" facs="tcp:99713:10"/>VVith Ragged Monuments of Time fore-paſt,</l>
+            <l>Here were rent <hi>Robes,</hi> and broken <hi>Scepters</hi> plac'd,</l>
+            <l>Altars defil'd, and Holy Things defac'd.</l>
+            <l>Large Pillars all bedect with Titles Vain,</l>
+            <l>Which Princes wore while they on Earth did Reign.</l>
+            <l>Here were ſome ſigns of Antick <hi>Babylon,</hi>
+            </l>
+            <l>Of Fatal <hi>Thebes,</hi> of <hi>Rome,</hi> that Reigned long,</l>
+            <l>Of Sacred <hi>Salem,</hi> and ſad <hi>Ilion.</hi>
+            </l>
+            <l>Lamenting Sorrow, did in Darkneſs lie,</l>
+            <l>And Trembling Fear, ſtill to and fro did fly.</l>
+            <l>In Sable Weeds, ſat <hi>ſelf-conſuming-Care</hi>
+            </l>
+            <l>VVith <hi>gnaſhing Miſery,</hi> and <hi>mad Deſpair.</hi>
+            </l>
+            <l>Now while the aſtoniſht Maid, with Plaints and Cries,</l>
+            <l>Doth Importune the liſtning Deities,</l>
+            <l>And makes the Molten Stars to drop like Eyes.</l>
+            <l>
+               <hi>Ceres</hi> had ſought among the ſhady Bowers,</l>
+            <l>And little <hi>Rivolets</hi> Fring'd with ſweet Flowers.</l>
+            <l>For her loſt Darling, like ſome careful Doe,</l>
+            <l>That wandring round the VVilderneſs doth go;</l>
+            <l>Till ſhe her tender ſtraying Kid hath found,</l>
+            <l>Fearing ſome Briars its Velvet skin may wound.</l>
+            <l>She Climbs the Mountains, where the Golden Mine,</l>
+            <l>And all the ſparkling, coſtly Jewels Shine;</l>
+            <l>But coming back to ſome Remoter Strand,</l>
+            <l>Mourning and VVeeping, on the Pearly Sand.</l>
+            <l>
+               <pb n="7" facs="tcp:99713:10"/>She learns the News, and ſtrait away doth go</l>
+            <l>To tell the Gods the Story of her VVoe.</l>
+            <l>On Airy VVings ſhe mounted up on High,</l>
+            <l>And coming to the Starry Gallery</l>
+            <l>Where <hi>Jupiter</hi> with Hallowed Light doth Shine,</l>
+            <l>She there relates the Rape of <hi>Proſerpine.</hi>
+            </l>
+            <l>Who is by the Decree of Sacred Heav'n,</l>
+            <l>Six Months to her, and Six to <hi>Pluto</hi> giv'n.</l>
+         </div>
+         <div type="poem">
+            <head>LEUCOTHOE and PHAEBUS.</head>
+            <argument>
+               <head>THE ARGUMENT.</head>
+               <p>
+                  <hi>Leucothoe</hi> was the Daughter of <hi>Orcha<g ref="char:EOLhyphen"/>mus;</hi> who being beloved by <hi>Phoebus,</hi> was by her Buried alive in the Ground, whereupon the Poets feign that <hi>Phoebus</hi> pitying, turn<g ref="char:EOLhyphen"/>ed her in a Tree of <hi>Frankinſence.</hi>
+               </p>
+            </argument>
+            <l>WHen firſt <hi>Aurora</hi> in her Purple Pall,</l>
+            <l>Out of the Dawning-Eaſt the Day doth Call.</l>
+            <l>Behold the Suns ſwift Horſes from a far,</l>
+            <l>Mark how they Poſt with the Triumphant Car.</l>
+            <l>
+               <pb n="8" facs="tcp:99713:11"/>Behold the Chariot which the Gods Admire!</l>
+            <l>'Twas wrought in <hi>Lemno</hi> with unquenched Fire.</l>
+            <l>The Seat which doth the Years Great Ruler hold,</l>
+            <l>Is rough with Rubies, ſtiff with beaten Gold.</l>
+            <l>For <hi>Mulciber</hi> from a Remoter Shoar,</l>
+            <l>Brought Oriental Gems, and <hi>Indian</hi> Oar.</l>
+            <l>The Sky-like <hi>Jaſper,</hi> Purple <hi>Amethiſt,</hi>
+            </l>
+            <l>And fiery Carbuncles, which the Flames reſiſt.</l>
+            <l>The <hi>Saphire, Beril, Ophir, Chryſolite,</hi>
+            </l>
+            <l>And coſtly Diamonds, ſcattered Heavenly Light.</l>
+            <l>The Jewels like ſo many Lamps appear,</l>
+            <l>And Dart their Streamers to the Gloomy Air,</l>
+            <l>Like <hi>Argus</hi>'s Eyes they lookt forth every where.</l>
+            <l>Behold the Sun with Wreaths of Stars that grace,</l>
+            <l>And Circle evermore his Beamy-Face.</l>
+            <l>Not <hi>Ariadnes</hi>'s Crown, doth ſhine ſo clear,</l>
+            <l>Nor the bright Pole-Star of the Hemiſphere.</l>
+            <l>Nor fair <hi>Latona</hi>'s Daughter with her Train,</l>
+            <l>Nor the great Waggoner of <hi>Charles</hi>'s Wain,</l>
+            <l>That guides the Saylors in the Watery Main.</l>
+            <l>Look ſo Divine; Thoſe only gild the Night,</l>
+            <l>And ſo give place to his more Glorious Light.</l>
+            <l>Like Vaſſalage, when unawares the Eye</l>
+            <l>Encounters that of brighter Majeſty.</l>
+            <l>His Shining Eyes look like two Seraphins,</l>
+            <l>When they with joy diſplay their Hallowed Wings.</l>
+            <l>
+               <pb n="9" facs="tcp:99713:11"/>Like to <hi>Eridanus</hi> his Beauties ſhow,</l>
+            <l>(<hi>Eridanus</hi> the pleaſant—River—<hi>Po;</hi>)</l>
+            <l>Whoſe Golden-waves in Heav'n and Earth do flow.</l>
+            <l>Behold with Wonder here the Zodiack-line,</l>
+            <l>Where every Conſtellation (every Sign)</l>
+            <l>That hangs upon the beauteous Breaſt of Heav'n,</l>
+            <l>Looks like a <hi>George,</hi> to ſome great Heroe giv'n.</l>
+            <l>Once through the Firmament as <hi>Phoebus</hi> paſt,</l>
+            <l>Beholding various ſorts of things: —at laſt</l>
+            <l>The fair <hi>Leucothoe</hi> he did deſcry,</l>
+            <l>Who fires his generous-heart, and charms his Eye.</l>
+            <l>For <hi>Venus</hi> has (cou'd <hi>Venus</hi> be ſurvey'd)</l>
+            <l>No ſweeter look than the unſullied Maid:</l>
+            <l>Her Beauties like the Morn were bright and clear,</l>
+            <l>And in her Eyes Mercy and Peace appear.</l>
+            <l>The Ennamor'd God doth ſtrait deſcend to view,</l>
+            <l>More near this Earthly-Saint of heav'nly hew:</l>
+            <l>He came when <hi>Natures</hi> tender Nurſe, had hurld</l>
+            <l>Her Sable Curtains o're the drowſie World.</l>
+            <l>When every Bird to his Pavilion fled,</l>
+            <l>And on his Downy-pillow laid his head:</l>
+            <l>He takes her Mothers ſhape, by that betrayd,</l>
+            <l>The unſuſpecting careleſs, harmleſs Maid.</l>
+            <l>Then re-aſuming all his Rays, did ſay,</l>
+            <l>I am the mighty Guider of the Day,</l>
+            <l>To all the Wondring-World my Beams diſplay.</l>
+            <l>
+               <pb n="10" facs="tcp:99713:12"/>All that you ſee below the ſpacious Sky,</l>
+            <l>My Creatures are, and wear my Livery.</l>
+            <l>Without my heat the Seeds of all things fall</l>
+            <l>To the firſt Nothing, (their Original.)</l>
+            <l>On the young Spring my Influence I ſpread,</l>
+            <l>And give a Golden-green Mantle to each Mead.</l>
+            <l>Tis I that gild fair <hi>Iris</hi> lightſom Front,</l>
+            <l>And with my gaudy Penſil paint upon't:</l>
+            <l>Tis I give life to every tender Plant,</l>
+            <l>And cauſe the numerous Armies of the Ant.</l>
+            <l>Tis I make Gold, that Thoughtfulneſs and Care,</l>
+            <l>Thus Diligence and Thrift, my Drudges are.</l>
+            <l>I fill the World with her unnumbred Kin,</l>
+            <l>And make old <hi>Nature</hi> every year lie In.</l>
+            <l>As ſome fair Peacock prinks his breaſt and head,</l>
+            <l>(Woing the female to his Painted-bed:)</l>
+            <l>Spreadeth all round with Pride his pompious Vail,</l>
+            <l>His Azure-Wings, and golden ſtarry Tail.</l>
+            <l>So <hi>Phoebus</hi> burning with Loves flames doth move,</l>
+            <l>Diſplays his golden Rays all round his Love.</l>
+            <l>To enflame <hi>Leucothoe</hi> with Lovers Grace,</l>
+            <l>To yield the ſooner to his kind Embrace:</l>
+            <l>Who cou'd reſiſt? Won by his melting Charms,</l>
+            <l>She does receive him in her trembling Arms:</l>
+            <l>And let's him Pleaſures take, that even <hi>Jove,</hi>
+            </l>
+            <l>Might envy, and with Beauty feaſts his Love.</l>
+            <l>
+               <pb n="11" facs="tcp:99713:12"/>How ſweet is every Lover's fleeting joy,</l>
+            <l>Nothing but Envious-time wou'd Love deſtroy.</l>
+            <l>For Love the Virgin lays aſide her fears,</l>
+            <l>Regards not her Indulgent-mothers tears.</l>
+            <l>Old ſullen <hi>Saturn, Cupids</hi> Laws obeys,</l>
+            <l>And the coy <hi>Thetis</hi> Goddeſs of the Seas.</l>
+            <l>And even the aged Sire of <hi>Neptune</hi>'s heard,</l>
+            <l>With his long Beaugle-colourd Dewy-beard:</l>
+            <l>Whoſe Frory-head with Snow is coverd o're.</l>
+            <l>Will court a Sea-Nymph on the Graſſy-ſhore.</l>
+            <l>Myſterious Love cannot be underſtood,</l>
+            <l>Both old and young admire, and think it good;</l>
+            <l>And yet tis nothing but a Dream of blood.</l>
+            <l>That wakes with the enjoying-open-eyes,</l>
+            <l>Forget the Pleaſures they laſt Night did prize.</l>
+            <l>Pleaſures look fair, like Pyramids they ſhow,</l>
+            <l>Too like (alas) obſerve them as they go.</l>
+            <l>When neareſt to their height, how narrow ſtill they grow</l>
+            <l>Now <hi>Clitie</hi> to her Father doth reveal,</l>
+            <l>The ſecret joys which theſe two Lovers ſteal:</l>
+            <l>Makes cruel <hi>Orchamus</hi> with Rage to burn,</l>
+            <l>Who ſhuts the tender Beauty in an Urn.</l>
+            <l>But <hi>Phoebus</hi> glancing with his Golden-eyes,</l>
+            <l>Breaks up the Marble-Couch wherein ſhe lies:</l>
+            <l>And by his powerful-quickning Influence,</l>
+            <l>Turns her into a Tree of Frankincenſe;</l>
+            <l>
+               <pb n="12" facs="tcp:99713:13"/>That in the Balmy-ſmoak ſhe might ariſe,</l>
+            <l>And offer <hi>Jove</hi> a daily Sacrifice.</l>
+         </div>
+         <div type="poem">
+            <head>ANDROMEDA, &amp; PERSEUS.</head>
+            <argument>
+               <head>The Argument.</head>
+               <p>
+                  <hi>Andromeda</hi> for the Pride of her Mother <hi>Caſſiope,</hi> that contended with the Sea-Nymphs in Beauty, was by them bound to a Rock, and left to be devour'd by a Sea-Mon<g ref="char:EOLhyphen"/>ſter: Afterwards <hi>Perſeus</hi> ſlew the Mon<g ref="char:EOLhyphen"/>ſter, and married the Daughter.</p>
+            </argument>
+            <l>THere ſtands a Rock that furiouſly doth beat,</l>
+            <l>The weary Billows (foaming with her ſweat.)</l>
+            <l>When they attempt to take one minutes reſt,</l>
+            <l>On the rough Pillow of his Craggy-breſt;</l>
+            <l>Where ſolitary Storks in Troops do throng,</l>
+            <l>On ſhining Shells, both hatch, and feed their Young:</l>
+            <l>The Shells that lie upon the unhallowed place,</l>
+            <l>Do ſerve the <hi>Mermaids</hi> for their Looking-glaſs;</l>
+            <l>By theſe they dreſs their heads, and ſee their face.</l>
+            <l>
+               <pb n="13" facs="tcp:99713:13"/>Here <hi>Halcions</hi> ne're will venture with their brood,</l>
+            <l>Leſt <hi>Aeolus</hi> ſhou'd drown them in the flood:</l>
+            <l>None but the fatal Birds reſorted here,</l>
+            <l>The ill-fac'd <hi>Screech-Owl</hi> (Deaths ſad meſſenger)</l>
+            <l>The hoarſe Night-Raven that who hears, doth die,</l>
+            <l>And <hi>Harpies</hi> Prophets of ſad deſtiny.</l>
+            <l>The Rocks look wilde, like ſome old Deſert, where</l>
+            <l>Tall Cedars whiſper to the ſighing Air:</l>
+            <l>Upon this Top the <hi>Tritons</hi> ſound a Call,</l>
+            <l>Summon the Sea-Nymphs to the Funeral,</l>
+            <l>Of fair <hi>Andromeda,</hi> brought to appeaſe,</l>
+            <l>By a ſad death the angry Goddeſſes:</l>
+            <l>By their decree the guiltleſs Maid lay bound,</l>
+            <l>Complaining to the pitying ſtony-ground:</l>
+            <l>The Rock it ſelf, how rough and rude ſo e're,</l>
+            <l>Would ſcarce believe that Nymphs ſuch Furies were.</l>
+            <l>Have you not ſeen lie proſtrate on the ground,</l>
+            <l>A Lovers-heart freſh bleeding of a Wound;</l>
+            <l>With a ſmall Golden Chain about it bound.</l>
+            <l>How ſweetly it will ſigh, 'twill ſeem to frame</l>
+            <l>Fine Nopes, and call upon ſome cruel Name.</l>
+            <l>Thus ſeem'd <hi>Andromeda,</hi> with Plaints and Cries,</l>
+            <l>She importunes the Guardian-Deities.</l>
+            <l>Like ſome fair Almond-tree that ſtands alone,</l>
+            <l>Whoſe tender Leaves do tremble every one;</l>
+            <l>She fears each breath that under Heav'n is blows.</l>
+            <l>
+               <pb n="14" facs="tcp:99713:14"/>Her beauteous Mother (as great <hi>Hecter</hi>'s Wife)</l>
+            <l>Became an humble Suppliant for the Life</l>
+            <l>Of young <hi>Aſtyonax,</hi> her tender Son.</l>
+            <l>One of the Relicks of ſad <hi>Ilion.</hi>
+            </l>
+            <l>Entreateth all the Gods to ſpare her Race,</l>
+            <l>With Prayers and Pearly-tears that dew her Face.</l>
+            <l>As a young Lark, when the kind Heav'ns do pour</l>
+            <l>Upon the Earth ſome ſweet-refreſhing Showr;</l>
+            <l>Sits bathing of his aiery Wings on high;</l>
+            <l>Under thoſe Cryſtal-drops, you might eſpy</l>
+            <l>A charming <hi>Cupid</hi> in each mournful Eye.</l>
+            <l>The Boy with all his Arts did try to clear</l>
+            <l>Thoſe Lights through which his Conqueſts did ap<g ref="char:EOLhyphen"/>pear;</l>
+            <l>But ſtill ſhe wept, and did of Fate complain,</l>
+            <l>Like <hi>Venus</hi> for her dear <hi>Adonis</hi> ſlain.</l>
+            <l>But loe the <hi>Monſter</hi> from the <hi>Ooſe</hi> doth riſe,</l>
+            <l>Approaching towards his long'd-for Sacrifice:</l>
+            <l>His bloody Eyes like Comets ſhining bright,</l>
+            <l>Darting out horrid Beams of threatning Light:</l>
+            <l>His Thunder ſounding to the diſtant Woods,</l>
+            <l>Which ecchoing back frighteth the trembling floods:</l>
+            <l>The Waters wondring at the difmal-roar,</l>
+            <l>Silently ſteal to ſome remoter Shoar.</l>
+            <l>But now a Valiant noble Youth appears,</l>
+            <l>Whoſe Helmet glitters with a thouſand Stars.</l>
+            <l>
+               <pb n="15" facs="tcp:99713:14"/>His ſhining Beaver was of beaten Gold,</l>
+            <l>And on the Creſt, a Dragon did enfold.</l>
+            <l>Whoſe greedy Paws, whoſe dreadful hideous Head,</l>
+            <l>Both glorious brightneſs, and great terrour bred:</l>
+            <l>Upon his Sun-broad Shield Emboſſed high,</l>
+            <l>Were Fame and Glory running ſwiftly by.</l>
+            <l>A curious Silver Trumpet Fame did bear,</l>
+            <l>Whoſe Wind was Praiſe, and ſounded through the Air.</l>
+            <l>By Glory moſt Ingeniouſly were wrought,</l>
+            <l>The dangerous Battels <hi>Alexander</hi> fought.</l>
+            <l>Here were Diſplayd the <hi>Roman Eagles</hi> Wings,</l>
+            <l>By them great Triumphs and the Crowns of Kings;</l>
+            <l>Trophies and Garlands, wonderfully ſweet,</l>
+            <l>And many Princes ſighing at her Feet.</l>
+            <l>The Royal-Maid when ſhe the Youth eſpies,</l>
+            <l>Tries with unable hands to hide her Eyes;</l>
+            <l>Then Roſie-bluſhes from her Cheeks ariſe.</l>
+            <l>So once the modeſt World did ſtrive to hide</l>
+            <l>Thoſe Secrets which <hi>Columbus</hi> ſince deſcride:</l>
+            <l>Unwilling that her Beauties ſhould be told,</l>
+            <l>Her Veins, her Mines, her undiſcoverd Gold.</l>
+            <l>When <hi>Perſeus</hi> ſaw her lovely Limbs all bare,</l>
+            <l>Left to be chilled by the piercing Air;</l>
+            <l>Her Ivory-neck, her Alabaſter-breaſt,</l>
+            <l>Where little Love in ſoft delight did reſt:</l>
+            <l>
+               <pb n="16" facs="tcp:99713:15"/>Her Boſom white as <hi>Albion</hi>'s pale-fac'd Shore,</l>
+            <l>Or Snow by Northern-blaſts bolted thrice o're.</l>
+            <l>The Heroe does reſolve to undertake,</l>
+            <l>The dreadful-dangerous Combat for her ſake.</l>
+            <l>The Gods have always took peculiar Care,</l>
+            <l>To help and ſuccour the diſtreſſed-Fair:</l>
+            <l>The Angels watch that no Miſchance befall,</l>
+            <l>At unawares the ſacred Animal:</l>
+            <l>This <hi>Monſter</hi> was by the brave Warriers hand,</l>
+            <l>Sent ſuddenly to <hi>Pluto</hi>'s griefly Land.</l>
+            <l>Like as the ſacred Oxe that careleſs ſtands,</l>
+            <l>Proud of his dying-honour, and dear bands;</l>
+            <l>With gilded Horns, and flowry Garlands crown'd,</l>
+            <l>While Incenſe doth perfume the Altar round:</l>
+            <l>He groveling falls, and with his ſtreamy Goar,</l>
+            <l>Doth ſtain the Altar, and the ſhining Oar;</l>
+            <l>So fell the <hi>Monſter</hi> on the diſmal Shoar.</l>
+            <l>The loving Mother that nine Months doth bear</l>
+            <l>Her tender Babe, ſeeing it ſafe appear</l>
+            <l>Shews not ſuch Joys as the expreſſed here.</l>
+            <l>When once the miſty Mountains late unſeen,</l>
+            <l>Change their white Garments into lovely-green.</l>
+            <l>The Gardens ſmile with their freſh flowry-buds,</l>
+            <l>The Meads with Graſs, with leaves the naked-woods.</l>
+            <l>So now <hi>Caſſiope</hi> no longer ſhrouds</l>
+            <l>
+               <hi>Andromeda</hi> in Robes of Sable-clouds.</l>
+            <l>
+               <pb n="17" facs="tcp:99713:15"/>But let us now behold each charming Grace,</l>
+            <l>That ſhines in her bright beauteous Royal-face:</l>
+            <l>Beauty like banks of Violets, or the Roſe,</l>
+            <l>To Favourites obliging-ſweets beſtows.</l>
+            <l>Thoſe Eyes that languiſht, now recruit their fire,</l>
+            <l>Her Cheeks like untoucht Cherries do aſpire.</l>
+            <l>With Crimſon bluſhes, as it were to court,</l>
+            <l>Or to entice the Linnet, or to ſport</l>
+            <l>With the young wanton Sparrow; her bright hair</l>
+            <l>Like to a curious Border did appear;</l>
+            <l>Her Looks were ſweet as <hi>Juno</hi>'s Eye-lids are.</l>
+            <l>Glorious as <hi>Titon,</hi> when he doth unfold</l>
+            <l>His beamy-Curtains to the wondring World;</l>
+            <l>And makes dull Earth ſhine like the glittering Gold.</l>
+            <l>This Beauty by the bounteous Will of Heav'n,</l>
+            <l>In all her Jewels, to the Youth is giv'n.</l>
+            <l>And now the fair <hi>Adromeda</hi> is led</l>
+            <l>In Triumph to the Lovers Genial-bed:</l>
+            <l>The Virgins all Rejoycing in her Way,</l>
+            <l>Strows Flow'rs, while loud <hi>Clarions</hi> ſweetly play.</l>
+         </div>
+         <div type="poem">
+            <pb n="18" facs="tcp:99713:16"/>
+            <head>VENUS and ADONIS.</head>
+            <argument>
+               <head>The Argument.</head>
+               <p>
+                  <hi>Adonis</hi> was the Darling of <hi>Venus,</hi> who was kill'd by a wilde Boar, whom <hi>Venus</hi> after his Death turned into a Flower.</p>
+            </argument>
+            <l>OSacred <hi>Muſes!</hi> by your ſecret Skill,</l>
+            <l>Enrich with curious Forms my lab'ring Quill:</l>
+            <l>Dreſs up in Flowery-fancy every Line,</l>
+            <l>Yet let them in a Native-ſweetneſs ſhine:</l>
+            <l>Like ſome great Gilder, teach me how to ſhed</l>
+            <l>A Glorious-gloſs, and finely over-ſpread,</l>
+            <l>Each Verſe with golden Foyl, that they may bring</l>
+            <l>Credit to every Wonder that I ſing,</l>
+            <l>Of young <hi>Adonis: Atlas</hi> ne'r did bear</l>
+            <l>Upon his Glittering-back a brighter Star:</l>
+            <l>His Face was like a ſerene Summers-night,</l>
+            <l>Creſted all o're with beauteous beams of Light.</l>
+            <l>
+               <hi>Buskins</hi> he wore of coſtly Cordiwain,</l>
+            <l>Which faſhion did become the gentle Swain:</l>
+            <l>
+               <pb n="19" facs="tcp:99713:16"/>Pinkt upon Gold, and Baled part by part;</l>
+            <l>In his Right-hand he held a trembling Dart;</l>
+            <l>That ſeem'd unwilling to deſtroy the nimble Hart.</l>
+            <l>He had a <hi>Hood</hi> which curious <hi>Aglets</hi> ſpread,</l>
+            <l>A <hi>Horn</hi> to Winde the <hi>Obſequies</hi> of his <hi>Deads:</hi>
+            </l>
+            <l>He never ſpilt the Bloſſom of his days</l>
+            <l>In Idleneſs, but in delightful ways.</l>
+            <l>There was no <hi>Hawk</hi> that mantled on her Perch,</l>
+            <l>But he did both her flight and meaſure ſearch;</l>
+            <l>Her towring up on high, her coaſting low,</l>
+            <l>Did all her curious Prey and Dyet know;</l>
+            <l>Such be the Joys that in the Foreſts grow.</l>
+            <l>Sometimes young Fawns and Kids he would convay,</l>
+            <l>And ſometimes with the ſilver Fiſhes play:</l>
+            <l>At other-times he <hi>Robin-red-breſts</hi> caught,</l>
+            <l>And after little wanton Squirrels ſought.</l>
+            <l>But when the Sable-night chas'd Light away,</l>
+            <l>(Unſullied with the Pleaſures of the Day;</l>
+            <l>The Youth did with the Queen of <hi>Beauty reſt,</hi>
+            </l>
+            <l>On the white Pillow of her Panting-breaſt.</l>
+            <l>Between theſe <hi>Alps</hi> where troops of <hi>Beauties</hi> are,</l>
+            <l>She lays his head, and ſtrokes his ſhining hair:</l>
+            <l>Sweet-balmy <hi>Nectar</hi>-drops from thence diſtils,</l>
+            <l>Like Orient-Pearl along it ſoftly trills.</l>
+            <l>So from the Vine the ſacred Juice doth flow,</l>
+            <l>Beſtowing bleſſings from his bounteous Bough:</l>
+            <l>
+               <pb n="20" facs="tcp:99713:17"/>A ſilver Veil ſhe wore, but wrought ſo thin,</l>
+            <l>It did not quite her Alabaſter-skin.</l>
+            <l>As Uſurers (whoſe Plenty makes them poor,</l>
+            <l>With grievous Gouty Toes tormented ſore,</l>
+            <l>Although their wretched days draw nigh Deaths door.</l>
+            <l>How greedily they vievv their curſed Pelf,</l>
+            <l>And Iron-cheſt, that Guards their Mammon-vvealth.</l>
+            <l>Like them, <hi>Adonis</hi> vviſhes ſlill to vievv,</l>
+            <l>(For evermore) her naked heav'nly hevv:</l>
+            <l>In her bright Eyes ſat ſmiling ſvveet Delight,</l>
+            <l>Able to tempt a ſullen Anchorite.</l>
+            <l>A feeble Withered-hermit grovvn <hi>Times-ſcorn,</hi>
+            </l>
+            <l>With fiveſcore ſnovvy tedious Winters vvorn;</l>
+            <l>Might ſhake off fifty looking in her Eye,</l>
+            <l>She gave the Crutch the Cradles Infancy:</l>
+            <l>Like the fair <hi>Hebe</hi> ſhe looks ever young,</l>
+            <l>Time cannot her Immortal <hi>Beauty</hi> vvrong.</l>
+            <l>This Goddeſs doth ſubmit unto his Charms,</l>
+            <l>Preſſing him gently in her loving Arms:</l>
+            <l>Her ſtarry Mantle over him ſhe ſpread,</l>
+            <l>And Roſie Pillovvs plac'd beneath his head.</l>
+            <l>Thus did <hi>great Juno's</hi> Nymphs (by <hi>Nature</hi> kind)</l>
+            <l>Help <hi>Hercules</hi> the Golden-fruit to find.</l>
+            <l>Their Pleaſures did the feeble-ſence confound,</l>
+            <l>And the frail Soul in deep-delight did drovvnd.</l>
+            <l>
+               <pb n="21" facs="tcp:99713:17"/>
+               <hi>Pleaſure's</hi> the Daughter of the Queen of Love,</l>
+            <l>Whoſe Charms can ſvveetly temper angry <hi>Jove.</hi>
+            </l>
+            <l>The Gliding-minutes as they paſt avvay,</l>
+            <l>Did often vainly vviſh vvith them to ſtay;</l>
+            <l>So kindly did they. Treat them every day.</l>
+            <l>Novv vvith ſvveet Kiſſes doth ſhe bathe his Eyes,</l>
+            <l>Leads him to <hi>Grottoes</hi> vvhere the <hi>Mirtles</hi> riſe.</l>
+            <l>Whoſe ſhady boughs rude Iron ne're did lop,</l>
+            <l>Whoſe Trees do Gummy-juyces freely drop:</l>
+            <l>Shevvs him a Fountain on vvhoſe Top did ſhine,</l>
+            <l>A naked Boy in every part divine:</l>
+            <l>Blindfold he vvas, and in his hands did hold</l>
+            <l>A Bovv and Arrows made of maſſie Gold;</l>
+            <l>Ah Youth bevvare hovv you the Darts behold.</l>
+            <l>About the Fountain ſeveral Anticks plaid,</l>
+            <l>With pureſt Bullion finely over-laid.</l>
+            <l>Fancy vvith her own painted Plumes did play,</l>
+            <l>To Lovers ſhe did curious Thoughts convey,</l>
+            <l>
+               <hi>Idea's</hi> whiter then Heav'ns Milky way.</l>
+            <l>The next was <hi>Hope,</hi> a comely handſom Maid,</l>
+            <l>In a Silk <hi>Camis</hi> beauteouſly arrayd:</l>
+            <l>Her Sunny-Locks were vvoven up in Gold,</l>
+            <l>She always ſmil'd, and in her hands did hold</l>
+            <l>A Poplar-branch vvhich oft ſhe dipt in Dew,</l>
+            <l>And Favours upon begging Courtiers threw,</l>
+            <l>Thouſands ſhe ſeem'd to like, yet lov'd but very few.</l>
+            <l>
+               <pb n="22" facs="tcp:99713:18"/>The next vvas <hi>Flatery</hi> brisk <hi>Debonair,</hi>
+            </l>
+            <l>Richly adorn'd, and ſeem'd exceeding fair;</l>
+            <l>But her bright <hi>Brows</hi> were deckt with borrow'd hair.</l>
+            <l>
+               <hi>Diſpleaſure</hi> next appear'd lumpiſh and ſad,</l>
+            <l>An angry Waſp ſhe in a Vial had:</l>
+            <l>Then <hi>loſs of Time</hi> vvith <hi>ſlow Repentance</hi> came,</l>
+            <l>
+               <hi>Repentance, Feeble, ſorrowful,</hi> and <hi>Lame:</hi>
+            </l>
+            <l>Here Spears vvere broke, Trophies and Garlands rent,</l>
+            <l>And all to ſhew <hi>Loves</hi> mercileſs intent.</l>
+            <l>
+               <hi>Love</hi> Loadſtone like on <hi>Iron-Tempers</hi> acts,</l>
+            <l>And by a ſecret Touch the <hi>Heart</hi> attracts:</l>
+            <l>Attracts it ſtrangely vvith unclaſping Crooks,</l>
+            <l>With unknown Cords, vvith unperceived-Hooks:</l>
+            <l>With unſeen-hands, vvith undiſcerned Arms,</l>
+            <l>With Powerful hidden-force, and ſecret Charms.</l>
+            <l>By the fair Fountains-ſide the ſtarry Spies,</l>
+            <l>Nightly beholding their Love-thieveries;</l>
+            <l>Decree that young <hi>Adonis</hi> ſhall be ſlain,</l>
+            <l>Youths pleaſant Clues of Life are ſhort and vain.</l>
+            <l>A mighty <hi>Boar</hi> into <hi>Adonis</hi> Breaſt,</l>
+            <l>Doth ſtrike his Tusks, and goars his Snowy-Cheſt:</l>
+            <l>Forth from the Wounds there ſtreams a bluſhing-flood,</l>
+            <l>Of rich untainted Crimſon-colour'd-blood.</l>
+            <l>Thoſe Ruby-Lips vvhich juſt before began,</l>
+            <l>To ſhew their Smiling-red turn pale and vvan.</l>
+            <l>
+               <pb n="23" facs="tcp:99713:18"/>Beauteous <hi>Adonis</hi> on the Ground lies dead,</l>
+            <l>Like ſome fair ſleeping-Poppey, vvhen the head</l>
+            <l>By a rude Culter is untimely ſhread.</l>
+            <l>Ne're did Great <hi>Hecuba</hi> for <hi>Hector</hi> ſlain,</l>
+            <l>So much lament, as <hi>Venus</hi> did complain.</l>
+            <l>The Fields vvith faded Flowers did ſeem to mourn,</l>
+            <l>And running Waters vvept for his return:</l>
+            <l>Birds Warbled out a melancholy Note,</l>
+            <l>The ſighing Air put on a Mourning-Coat;</l>
+            <l>And teſtified its grief in flowing Tears,</l>
+            <l>Like thoſe which on <hi>Aurora's</hi> Cheek appears.</l>
+            <l>When from old <hi>Tithon</hi>'s Bed ſhe doth ariſe,</l>
+            <l>Scattering freſh Diamond-drops from her fair Eyes.</l>
+            <l>A general Sorrow Nature did ſuſtain,</l>
+            <l>When the unhappy lovely Youth was ſlain.</l>
+         </div>
+         <div type="poem">
+            <pb n="24" facs="tcp:99713:19"/>
+            <head>CYNTHIA and ENDIMION.</head>
+            <argument>
+               <head>The Argument.</head>
+               <p>
+                  <hi>Cynthia</hi> is the <hi>Moon,</hi> ſhe lov'd <hi>Endymi<g ref="char:EOLhyphen"/>on</hi> a Shepherd that lay upon Mount <hi>Lat<g ref="char:EOLhyphen"/>mos,</hi> and us'd to come to ſee him: <hi>Juno Jupiter</hi>'s Wife likewiſe lov'd him, and for that reaſon <hi>Jupiter</hi> (being jealous) com<g ref="char:EOLhyphen"/>manded <hi>Morpheus</hi> to keep him there in Eternal Sleep.</p>
+            </argument>
+            <l>THere is a Mountain ſo prodigious high,</l>
+            <l>The Frontiers boldly ſeem to ſcale the Sky:</l>
+            <l>The Frontiers boldly ſeem to ſcale the Sky:</l>
+            <l>Higher then Aiery <hi>Pelion</hi> (known by Fame)</l>
+            <l>Mount <hi>Latmos</hi> call'd, here <hi>Cynthia</hi> often came.</l>
+            <l>Her ſilver Stags (as Poets feign) did ſtop</l>
+            <l>Each Night upon the myſty Mountains-Top,</l>
+            <l>The Goddeſs lov'd to view the beauteous Face</l>
+            <l>Of her fair Love that ſlept upon this Place:</l>
+            <l>From the high Battlement of Heav'n, <hi>her Carr</hi>
+            </l>
+            <l>Deſcending finely gilt the gloomy Air;</l>
+            <l>
+               <pb n="25" facs="tcp:99713:19"/>She wears a Glorious Creſcent for a Crown,</l>
+            <l>Which ſhining to her very Heels hangs down:</l>
+            <l>Her Brows are bent in milde Majeſtick-wiſe,</l>
+            <l>Beneath the ſame ſtand <hi>Cryſolites</hi> for Eyes.</l>
+            <l>An Azure-Mantle waving at her Back,</l>
+            <l>With two bright Claſps buckled about her Neck,</l>
+            <l>Floriſht with Birds of ſundry-ſhape, and each</l>
+            <l>With Glittering Stars Emboſt, and Powder'd rich:</l>
+            <l>She ſits upon a Mighty-burniſht Throne,</l>
+            <l>And ſways the Giddy, Reſtleſs-Seas thereon;</l>
+            <l>In her Right-hand a curious Globe doth ſhew,</l>
+            <l>Compos'd of Ponderous-Earth and Water too.</l>
+            <l>(As Emblem) that the Rivers are her Slaves,</l>
+            <l>That ſhe Commands in Chief the Linked Waves.</l>
+            <l>This Goddeſs, ſeeing on the naked Ground</l>
+            <l>The lovely Youth in <hi>Morpheus</hi> Fetters bound;</l>
+            <l>Doth ſadly Mourn to think that angry <hi>Jove,</hi>
+            </l>
+            <l>Shou'd be ſo cruel to her onely Love;</l>
+            <l>To her that takes ſuch Care to watch, and eye</l>
+            <l>His Starry-Hoaſt, and Shining-Gallery.</l>
+            <l>Happy (ſaid ſhe) are all thoſe Nymphs and Swains,</l>
+            <l>That ſleep together on the Flowery Plains;</l>
+            <l>They eaſe each other of their raging Flames.</l>
+            <l>To his fair Miſſe <hi>Colin</hi> doth Wildings bring,</l>
+            <l>
+               <hi>Wildings</hi> as beauteous as the <hi>Virgin-Sping:</hi>
+            </l>
+            <l>
+               <pb n="26" facs="tcp:99713:20"/>Whoſe Purple-ſides entice the <hi>Birds</hi> to taſte,</l>
+            <l>With theſe the little Gluttons make a Feaſt;</l>
+            <l>And after Dinner ſing, and thank their Hoaſt,</l>
+            <l>Then go and Ramble to ſome other Coaſt.</l>
+            <l>Sometimes he mixes <hi>Lillies</hi> with the <hi>Roſe,</hi>
+            </l>
+            <l>And <hi>True-love-knots</hi> for <hi>Phillis</hi> doth Compoſe;</l>
+            <l>And by a curious ſort of Cunning-Art,</l>
+            <l>Makes Myſteries appear in every Part.</l>
+            <l>The lovely Garlands that Adorn her <hi>Brows,</hi>
+            </l>
+            <l>Are ſweetly Interwove with <hi>Mirtle-Boughs;</hi>
+            </l>
+            <l>And all the Flowers appearing in their Place,</l>
+            <l>Do ſhew the <hi>Beauties</hi> of her Angel-Face,</l>
+            <l>The modeſt Violet ſhews her Veins, the Roſe</l>
+            <l>Her <hi>Bluſhes</hi> that to Lovers ſhe beſtows.</l>
+            <l>The Thorny-Prickles tell the Cruel-ſmart,</l>
+            <l>Of ſome forlorn, forſaken Shepherds-heart;</l>
+            <l>And myſtically ſhew the Power of <hi>Cupid-Dart,</hi>
+            </l>
+            <l>The Rural-Laſſes, and the Ruſtick-Boys,</l>
+            <l>Partake of ſolid and ſubſtantial Joys.</l>
+            <l>Thus ſilly Shepherds make the Gods confeſs,</l>
+            <l>That onely they enjoy True-happineſs.</l>
+            <l>I (though a Goddeſs) vainly beg of <hi>Vove,</hi>
+            </l>
+            <l>To let <hi>Endymion</hi> ſee my tender Love.</l>
+            <l>Then would the grateful Youth my Altars dreſs,</l>
+            <l>With Incenſe and with humble Thankfulneſs.</l>
+            <l>
+               <pb n="27" facs="tcp:99713:20"/>When e're the blooming Bloſſoms do beſtow</l>
+            <l>Their lovely Treaſure from their yielding Bow.</l>
+            <l>The Earth doth kindly the ſweet Preſent take,</l>
+            <l>And back again to them Returns doth make.</l>
+            <l>When the Sun ſhin'd on <hi>Alexander</hi>'s Shield,</l>
+            <l>It Darted Golden Raies throughout the Field.</l>
+            <l>I Dart my Beams, but no Return of Light</l>
+            <l>Can come from Eyes clos'd in Eternal Night.</l>
+            <l>The ſpightful God may make me live a Slave,</l>
+            <l>But yet i'le viſit fair <hi>Endimion</hi>'s Cave.</l>
+            <l>Why ſhou'd the <hi>Thunderer</hi> be ſo ſevere?</l>
+            <l>To keep my Beautious Love a <hi>Priſoner</hi> here.</l>
+            <l>'Tis vain to ask (as wherefore Tempeſts riſe,)</l>
+            <l>For Powerful <hi>Jove</hi> regards not Peeviſh-whys.</l>
+            <l>Through <hi>Seas</hi> of <hi>Tears</hi> (where every Sigh's a Gale)</l>
+            <l>Young Lovers muſt to <hi>Beautie</hi>'s-<hi>Temple</hi> Sail:</l>
+            <l>No calmer way by the <hi>Raſh-Child</hi> is given,</l>
+            <l>They paſs by <hi>Hell</hi> before they come to <hi>Heaven.</hi>
+            </l>
+         </div>
+         <div type="poem">
+            <pb n="28" facs="tcp:99713:21"/>
+            <head>ACHILLES and DEIDAMIA.</head>
+            <argument>
+               <head>The Argument.</head>
+               <p>
+                  <hi>Thetis</hi> (the Goddeſs of the Seas) takes her Son <hi>Achilles</hi> from old <hi>Chiron,</hi> that taught him all manner of Arts, and brings him to <hi>Lycomedes</hi>'s Court, for fear the <hi>Greci<g ref="char:EOLhyphen"/>ans</hi> ſhou'd find him, and intice him to the War; therefore ſhe puts him in Womans Cloaths to paſs for a Maid, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Achilles</hi> he falls in Love with <hi>Deidamia,</hi> one of the King's Daughters, and ſhe with him, and ſo they continue in their kindneſs to each other, till <hi>Uliſſes</hi> finding him, carries him to the <hi>Camp.</hi>
+               </p>
+            </argument>
+            <l>TO <hi>Lycomedes</hi> Court, Renown'd by Fame,</l>
+            <l>With her young Darling Son Great <hi>Thetis</hi> came.</l>
+            <l>She brought him from the Old <hi>Chiron</hi>'s Den, for fear</l>
+            <l>The cunning <hi>Greeks</hi> might ſearch, and find him there;</l>
+            <l>
+               <pb n="29" facs="tcp:99713:21"/>And ſo by Wiles intice the Martial-Boy</l>
+            <l>To ſee their <hi>Camp</hi> beſieging careleſs <hi>Troy.</hi>
+            </l>
+            <l>This Noble Palace was with Marble built,</l>
+            <l>The Floores with Poliſht-Ivory pav'd, and gilt.</l>
+            <l>The Roofs were high, and all about them were</l>
+            <l>Pendants, and curious Corbes, engraved fair.</l>
+            <l>The Hangings of Rich <hi>Arras</hi> wrought with Gold,</l>
+            <l>And thoſe the Battels of the Giants told.</l>
+            <l>The ſhining metal lurked privily,</l>
+            <l>As wiſhing to be hid from Humane Eye.</l>
+            <l>Like a diſcolour'd <hi>Snake,</hi> whoſe hidden Snares,</l>
+            <l>By his bright back through the Graſs appears.</l>
+            <l>A Hundred tender Virgins Lilly-White</l>
+            <l>Here alwaies rang'd about, in ſweet Delight.</l>
+            <l>For all that Nature by her Mother-wit</l>
+            <l>Could frame, was here, and what ſhe did omit,</l>
+            <l>Art playing <hi>Natures</hi> part, ſupplied it.</l>
+            <l>The <hi>Juniper,</hi> the <hi>Pine,</hi> the <hi>Ceder</hi> tall,</l>
+            <l>That Decks his Branch with Bloſſoms over all,</l>
+            <l>Was Planted here, or elſe grew Natural.</l>
+            <l>
+               <hi>Alcides</hi> curious ſpeckled <hi>Poplar</hi>-Tree,</l>
+            <l>The <hi>Firr,</hi> the <hi>Almond, Pine,</hi> the <hi>Mulbury.</hi>
+            </l>
+            <l>Whoſe Juice doth Dew the Poets Brain,</l>
+            <l>And <hi>Palms</hi> that <hi>Monarchs</hi> do obtain.</l>
+            <l>Near theſe the ſtately Trees of Honour ſtood,</l>
+            <l>That do in <hi>Winter,</hi> as in <hi>Summer</hi> bud.</l>
+            <l>
+               <pb n="30" facs="tcp:99713:22"/>Spreading <hi>Pavillions</hi> for the Birds to Bower,</l>
+            <l>And in their Tops the Soaring-Eagles Tower,</l>
+            <l>Sitting on high in Majeſty and Power.</l>
+            <l>Each Sence of <hi>Man,</hi> moſt Coy, moſt Curious-Nice,</l>
+            <l>Might pleaſe it ſelf with each Device,</l>
+            <l>For here all Pleafures were that could frail Sence en<g ref="char:EOLhyphen"/>tice.</l>
+            <l>Shadow s to Skreen them from the Sun's hot Ray,</l>
+            <l>Sweet-ſtreams in which theſe beauteous Nymps did play.</l>
+            <l>High-reared Mounts the far-off Lands to view,</l>
+            <l>Delightful Groves for <hi>Phylomels</hi> young Crew:</l>
+            <l>Falſe <hi>Labyrinths</hi> where none might Peep, or gaze</l>
+            <l>To ſee their Pretty-wanton ſecret-ways,</l>
+            <l>To pleaſe her Children Nature made the Maze.</l>
+            <l>And all about were Vines of even Ranks,</l>
+            <l>And pleaſant <hi>Primroſe</hi>-Seats, and <hi>Violet</hi>-Banks:</l>
+            <l>Here did theſe beauteous <hi>Nymphs</hi> together ſport,</l>
+            <l>The Ruder-Sex to them did near reſort:</l>
+            <l>Therefore in <hi>Virgins-Tire</hi> the <hi>Youth</hi>'s arraid,</l>
+            <l>(And by his Mothers Art) lookt like a Maid.</l>
+            <l>She taught him gentle-Looks and pleaſing-Smiles,</l>
+            <l>And ſhew'd him how to Act the Womens-wiles;</l>
+            <l>And all the cunning Charms by which they get</l>
+            <l>The weak unguarded Heart into their Net.</l>
+            <l>Said She <hi>Loves-Arts</hi> are various ('tis confeſt)</l>
+            <l>But yet <hi>Humility</hi> ſucceedeth bed:</l>
+            <l>
+               <pb n="31" facs="tcp:99713:22"/>For all the Learned <hi>Sages</hi> ſay of old,</l>
+            <l>That <hi>Fortune</hi> ever favoured the bold.</l>
+            <l>For all they do affirm Women are won,</l>
+            <l>Chiefly by brisk-Attempt, and putting on</l>
+            <l>The young Practitioner in <hi>Love</hi> ſhall find,</l>
+            <l>That humble-poſtures ſooneſt catch the Mind,</l>
+            <l>And makes the rougheſt Tempers calm and kind.</l>
+            <l>They ſhake the noble Tree that would preſerve</l>
+            <l>Its Fruit, and make it from uprightneſs ſwerve.</l>
+            <l>Learn you to Love, let others learn to War;</l>
+            <l>Of Shields and Helmets (my dear Child) beware.</l>
+            <l>Honour like Cinnamon is mounded round,</l>
+            <l>With many a Thorn that doth the <hi>Heroe</hi> wound:</l>
+            <l>Tis mounded round, that none may Danger leſs</l>
+            <l>Approach the Plant, much leſs the Fruit poſſeſs.</l>
+            <l>Honour that with the Price of <hi>Blood</hi> is bought,</l>
+            <l>Is a meer Fancy ſeated in the Thought.</l>
+            <l>A ſine <hi>New-nothing,</hi> a <hi>(Gilt-Name)</hi> alas!</l>
+            <l>As vain as <hi>Archimedo</hi>'s Heav'n of Glaſs.</l>
+            <l>For <hi>Omphale</hi> Great <hi>Hercules</hi> forſook</l>
+            <l>Rude War, and in his Hand a Diſtaffe took.</l>
+            <l>The <hi>Mighty Lover</hi> in her <hi>ſofter-Charms,</hi>
+            </l>
+            <l>Forgot that <hi>Heroes</hi> us'd to <hi>Shine</hi> in <hi>Arms.</hi>
+            </l>
+            <l>Think with your ſelf how happy is this ſtate,</l>
+            <l>How pleaſant. ſweet, how quiet, fortunate.</l>
+            <l>
+               <pb n="32" facs="tcp:99713:23"/>To live for ever here at reſt and eaſe,</l>
+            <l>Free from the tempeſt of all worldly-Seas</l>
+            <l>From <hi>Battel</hi> ſafe, and all things that diſpleaſe</l>
+            <l>After theſe Documents and many more,</l>
+            <l>(Her ſhining Chariot poſting to the ſhore)</l>
+            <l>The Queen to <hi>Lycomedes</hi> Royal Care,</l>
+            <l>Doth trembling leave her fearleſs beauteous Heir.</l>
+            <l>Like ſome poor <hi>Pellican</hi> that cannot reſt,</l>
+            <l>Leaving her Downy-young in their warm Neſt.</l>
+            <l>In this fair Tree ſhe thinks them not ſecure,</l>
+            <l>And that another can't feirce Winds endure.</l>
+            <l>The Youth among theſe Beauties now doth rove,</l>
+            <l>And with fair <hi>Deidamia</hi> falls in love.</l>
+            <l>Who was ſo fair, that Fleſh (he ſeemed not,</l>
+            <l>(Clear as the <hi>Azure-skie</hi> without a ſpot.)</l>
+            <l>This heavenly Portract of bright Angels-hew,</l>
+            <l>Had the ſweet mixtures of Complectious Dew.</l>
+            <l>Natures kind beautious White, and bluſhing red,</l>
+            <l>The Gazers Eyes with double Pleaſure fed,</l>
+            <l>Able to heal the Sick, and to revive the Dead.</l>
+            <l>Her Words did drop like <hi>Manna</hi> when ſhe ſpake,</l>
+            <l>And from thoſe Pearls and Rubies, ſoftly brake</l>
+            <l>A ſilver Sound that Muſick ſeem'd to make.</l>
+            <l>Her Breaſts, like Fruit in <hi>May</hi> began to ſwell,</l>
+            <l>And ſilently like Virgins ſeem'd to tell,</l>
+            <l>
+               <pb n="33" facs="tcp:99713:23"/>What bounteous Favours they wou'd ſhortly ſhed,</l>
+            <l>For the Deſerver in the genial Bed.</l>
+            <l>Her ſunny Locks, large as the morning were,</l>
+            <l>And wav'd, and like a <hi>Penon</hi> did appear.</l>
+            <l>Widely diſpred, and looſely ſcattered,</l>
+            <l>Freſh blooming Buds and Flowers adorn'd her Head.</l>
+            <l>And when mild <hi>Zephirus</hi> amongſt them blew,</l>
+            <l>Moſt dainty Odors round about them threw.</l>
+            <l>In the Youth's looks more roughneſs one might read,</l>
+            <l>(Though lovely Lillies were with Roſes ſpread)</l>
+            <l>For Nature takes a more peculiar care,</l>
+            <l>To make the Woman Beautiful and Fair.</l>
+            <l>The Female Sex has a more gentle Eye,</l>
+            <l>A ſmoother Skin, a Cheek of purer dye.</l>
+            <l>A fainter Voice, a more enticing Face,</l>
+            <l>A deeper Treſs, a more delightful Grace.</l>
+            <l>Theſe happy Lovers mutually impart,</l>
+            <l>Sweet Glances that do fire each others Heart.</l>
+            <l>By every Glance myſteriouſly we find,</l>
+            <l>Whether the Temper's Cruel, Rough, or Kind,</l>
+            <l>The Eye's the trueſt <hi>Index</hi> of the Mind.</l>
+            <l>Here firſt the little God begins to play,</l>
+            <l>And ſteals, not rudely Forces Hearts away.</l>
+            <l>Have you obſerv'd how Circles will encreaſe,</l>
+            <l>From One, to Two, to Three, and never ceaſe,</l>
+            <l>
+               <pb n="34" facs="tcp:99713:24"/>Till they the very utmoſt Bank have found,</l>
+            <l>They ſpread, and reach, and ſtrive to gain the ground.</l>
+            <l>So <hi>Love</hi> encreaſes, and doth never reſt,</l>
+            <l>Till he the Conqueſt gets of ſome fair Breaſt:</l>
+            <l>And then he ſits, and mocks, and laughs, and ſings.</l>
+            <l>And Claps for Joy his Purple-colourd Wings.</l>
+            <l>By many Arts the Virgin is betrayd,</l>
+            <l>Fair <hi>Deidamia</hi> thinking him a Maid;</l>
+            <l>By ſtrict-embracing him doth blow up higher,</l>
+            <l>His burning-Paſſion to a flaming-Fire.</l>
+            <l>The Noble-Youth did with this <hi>Beauty</hi> lie,</l>
+            <l>(This <hi>Beauty</hi> full of all <hi>Divinity</hi>)</l>
+            <l>(Whoſe Sacred Charms might raiſe from <hi>Hermits-heat</hi>
+            </l>
+            <l>Made him the Womans-baſhful Rules forget:</l>
+            <l>The <hi>Youth</hi> doth now <hi>Ambroſial-Kiſſes</hi> taſte,</l>
+            <l>And on the beſt of <hi>Joys</hi> doth freely feaſt ;</l>
+            <l>Poſſeſſing all that Heav'n can give, or <hi>Jove,</hi>
+            </l>
+            <l>(His ſecret <hi>Miſtreſſes</hi> moſt tender-love.)</l>
+            <l>To <hi>Lycomedes</hi> he was never known,</l>
+            <l>To be the brave <hi>Achilles</hi> (<hi>Thetis</hi> Son)</l>
+            <l>Till Sly <hi>
+                  <g ref="char:V">Ʋ</g>lyſſes</hi> landed on the Coaſt,</l>
+            <l>Who carried him to <hi>Agamemnon</hi>'s Hoaſt.</l>
+         </div>
+         <div type="poem">
+            <pb n="35" facs="tcp:99713:24"/>
+            <head>APOLLO and DAPHNE.</head>
+            <argument>
+               <head>The Argument.</head>
+               <p>
+                  <hi>Daphne</hi> was the Daughter <hi>of</hi> Peneus; She was Courted by <hi>Apollo,</hi> but fled from him; afterwards ſhe was turn'd into a <hi>Lawrell-Tree.</hi>
+               </p>
+            </argument>
+            <l>
+               <hi>CVpid's Almighty-Dart</hi> that cannot reſt,</l>
+            <l>Till it arrives and wounds ſome <hi>Noble-breaſt:</hi>
+            </l>
+            <l>Makes <hi>Great Apollo</hi> leave his <hi>Chair</hi> of <hi>Gold,</hi>
+            </l>
+            <l>To Court a <hi>Beauty</hi> of a <hi>Brighter-Mould.</hi>
+            </l>
+            <l>He came in a <hi>Rich-Garment</hi> wrought in <hi>Folds,</hi>
+            </l>
+            <l>With <hi>Turn-ſols, Daffidils,</hi> and <hi>Marigolds:</hi>
+            </l>
+            <l>His <hi>Saffron-Ruff</hi> was Edged mighty neat,</l>
+            <l>With <hi>Curious-Flaming-Balnites</hi> round it ſet.</l>
+            <l>The <hi>Yellow-grounded-Robe</hi> for <hi>Tufts</hi> had on,</l>
+            <l>A <hi>precious Porphire,</hi> or an <hi>Agat-ſtone.</hi>
+            </l>
+            <l>Two <hi>Glorious Suns,</hi> in <hi>Daphne's Eye-lids lay,</hi>
+            </l>
+            <l>Whoſe <hi>Gates</hi> let out the <hi>Oriental-Day:</hi>
+            </l>
+            <l>Whoſe <hi>Flames</hi> Diſguis'd in <hi>Balls of Snow were hurld,</hi>
+            </l>
+            <l>And ſo <hi>Conſum'd</hi> the <hi>unſuſpecting World.</hi>
+            </l>
+            <l>
+               <pb n="36" facs="tcp:99713:25"/>The <hi>God</hi> of <hi>Wit</hi> with his <hi>Ingenious Charms,</hi>
+            </l>
+            <l>
+               <hi>Labours</hi> to bring this <hi>Beauty</hi> to his Arms:</l>
+            <l>Courts her with a moſt gentle-winning-Grace,</l>
+            <l>(As if each Word were Moulded for the Place.)</l>
+            <l>Tries with moſt Witty-wiles her Steps to ſtay,</l>
+            <l>Spreads <hi>Nets</hi> of <hi>Birdlime-Paſſion</hi> in her Way.</l>
+            <l>Takes his <hi>Harmonious-Lute</hi> whoſe Charms cou'd call,</l>
+            <l>The willing Stones into the <hi>Theban-wall.</hi>
+            </l>
+            <l>But <hi>Muſick,</hi> nor <hi>Soft-Eloquence</hi> can move</l>
+            <l>The Carleſs-Nymph to Pitty, or to Love.</l>
+            <l>She flies like ſome poor Bird with Fear oppreſt,</l>
+            <l>That Wanders to the Wilderneſs to reſt.</l>
+            <l>
+               <hi>Apollo</hi> doth behold her from a-far,</l>
+            <l>(As <hi>Skill'd-Aſtronomers</hi> ſome <hi>Glittering-Star.</hi>)</l>
+            <l>Then cloſe purſues, and tells her ſhe will chace</l>
+            <l>The <hi>Beauteous-Lillies</hi> from their <hi>Native-place:</hi>
+            </l>
+            <l>Tells her that <hi>gentle-Doves</hi> thus <hi>Eagles</hi> ſhun,</l>
+            <l>And <hi>Trembling-milk-white Lambs</hi> from <hi>Foxes</hi> run.</l>
+            <l>Tells her the <hi>Marigold</hi> with Joy receives,</l>
+            <l>His gentle-heat into her <hi>Virgin-Leaves.</hi>
+            </l>
+            <l>Shews her that <hi>beauteous Bloſſoms</hi> oft beſtow,</l>
+            <l>Moſt <hi>Odoriferous Kiſſes</hi> from their Bough:</l>
+            <l>And yield to <hi>Zephirus</hi> becauſe he's fair,</l>
+            <l>And Courts them with a milde and gentle Air.</l>
+            <l>Be kind (ſaid he) fair Nymph, to Sighs give Ear,</l>
+            <l>The <hi>Sweets</hi> of <hi>Love</hi> are waſted by long Pray'r.</l>
+            <l>
+               <pb n="37" facs="tcp:99713:25"/>
+               <hi>Love</hi>'s like the <hi>Roſe</hi> (if rightly underſtood)</l>
+            <l>The <hi>Virgin-Roſe,</hi> moſt <hi>ſweeteſt</hi> in the <hi>Bud.</hi>
+            </l>
+            <l>But Arguments are vain, She ſhuns his Sight,</l>
+            <l>And flies like <hi>Miſts</hi> chac'd by the <hi>Morning-light.</hi>
+            </l>
+            <l>As in a <hi>Covent</hi> where the <hi>Ghoſtly-Fryar,</hi>
+            </l>
+            <l>(Feeling ſome <hi>Feeble-Flames</hi> of <hi>Cupid's-Fire.</hi>)</l>
+            <l>Purſues a <hi>Fearful-Nun,</hi> and talks of <hi>Bliſs,</hi>
+            </l>
+            <l>And Greets the <hi>Virgin</hi> with a <hi>Holy-Kiſs.</hi>
+            </l>
+            <l>When in his <hi>Looks</hi> She reads a <hi>Winters-Day,</hi>
+            </l>
+            <l>Sees <hi>Natures White</hi> and <hi>Red</hi> quite worn away.</l>
+            <l>Knows that <hi>bright-Silver-hairs</hi> long ſince appear'd,</l>
+            <l>(<hi>Shining like Yſacles</hi>) upon his Beard:</l>
+            <l>And marks that his <hi>Old-Palſie-ſhaken Head,</hi>
+            </l>
+            <l>Looks like the <hi>Branches</hi> of an <hi>Oak</hi> neer-Dead,</l>
+            <l>With <hi>Hoary-Froſt,</hi> and <hi>Spangles</hi> covered.</l>
+            <l>She that before thought him inur'd to Faſt,</l>
+            <l>Thought that he kept his Body low and chaſt;</l>
+            <l>Bluſhing with Horrour haſtens from the Place,</l>
+            <l>Nor dare behold her <hi>Amorous-Father's-Face:</hi>
+            </l>
+            <l>But ſtrait retires in ſecret to her <hi>Cell,</hi>
+            </l>
+            <l>That ſhe in her unſullied-ſtate may dwell.</l>
+            <l>
+               <hi>Apollo</hi> overtook her trembling-Foot,</l>
+            <l>Juſt as 'twas Metamorphiz'd to a Root.</l>
+            <l>About her <hi>Bark,</hi> his loving Arms he caſt,</l>
+            <l>And gently did Embrace her tender Waſt.</l>
+            <l>
+               <pb n="38" facs="tcp:99713:26"/>So ſometimes doth a <hi>Cloud</hi> a <hi>Hill</hi> receive,</l>
+            <l>And of his <hi>Lofty-head</hi> out Eyes bereave;</l>
+            <l>As if the <hi>Amorous-Cloud</hi> did try to reſt,</l>
+            <l>The <hi>Drouſie-Mountain</hi> in its Sable-breaſt.</l>
+            <l>But now the <hi>Nymph</hi> that was ſo Coy and Fair,</l>
+            <l>Sits Mourning in a <hi>Verdant-Lawrel-Chair.</hi>
+            </l>
+            <l>Within the <hi>Bark</hi> her <hi>Heart</hi> doth <hi>beat</hi> and <hi>pant,</hi>
+            </l>
+            <l>Much like <hi>Pudefetan</hi> (the <hi>Shame-fac'd-Plant.</hi>)</l>
+            <l>Which if by Chance a Man approach too much,</l>
+            <l>It trembles, ſhrinks, and ſhuns the hateful-touch;</l>
+            <l>As if it had a Soul, a Sence, a Sight,</l>
+            <l>Subject to Fear, to Sorrow, and Deſpight.</l>
+            <l>Yet ſtill the <hi>Generous-God</hi> for her takes Care,</l>
+            <l>And Cloaths her in a <hi>Mantle</hi> all the Year.</l>
+            <l>For though the <hi>Angry-Heav'ns</hi> oft <hi>low'r</hi> and <hi>frown,</hi>
+            </l>
+            <l>The <hi>Lawrel</hi> wears her <hi>Green-embroider'd Gown.</hi>
+            </l>
+         </div>
+         <div type="poem">
+            <pb n="39" facs="tcp:99713:26"/>
+            <head>ARETHUSA and ALPHEUS.</head>
+            <argument>
+               <head>The Argument.</head>
+               <p>
+                  <hi>Arethuſa</hi> was a <hi>Virgin</hi> one of <hi>Diana</hi>'s Companions, loving Hunting; She was belo<g ref="char:EOLhyphen"/>ved of <hi>Alpheus,</hi> whoſe Violence when ſhe could not eſcape, <hi>Diana</hi> turn'd her into a <hi>Fountain</hi> of that Name, which leaſt ſhe ſhould be mixt with <hi>Alpheus,</hi> runs under Ground in ſecret Channels, and breaks out about <hi>Syracuſa.</hi>
+               </p>
+            </argument>
+            <l>HOW <hi>Coldly</hi> doth the <hi>Baſhful-Skie</hi> behold,</l>
+            <l>Her <hi>Spruce-bright-Lover Deckt</hi> in <hi>Beams</hi> of <hi>Gold;</hi>
+            </l>
+            <l>With what <hi>
+                  <g ref="char:V">Ʋ</g>nwillingneſs</hi> She ſeems to meet,</l>
+            <l>His <hi>Heavenly-Charms,</hi> his <hi>Youth</hi>-enticing-<hi>Heat;</hi>
+            </l>
+            <l>As if he were ſome <hi>Aged-Bard,</hi> whoſe <hi>Beard</hi>
+            </l>
+            <l>Might make a <hi>Virgins</hi> tender-Lips afeard.</l>
+            <l>Like her the <hi>Nymphs</hi> of Great <hi>Diana</hi> were</l>
+            <l>Modeſt and Chaſt, and moſt <hi>Divinely-fair,</hi>
+            </l>
+            <l>As the <hi>Sereneſt-Summers Purged Air.</hi>
+            </l>
+            <l>
+               <pb n="40" facs="tcp:99713:27"/>Theſe <hi>Nymphs</hi> did often to Old <hi>Cynthus</hi> go,</l>
+            <l>To chace the <hi>fearful-Fawn,</hi> and hunt the <hi>Doe;</hi>
+            </l>
+            <l>That to the Far-of <hi>Spicy-Deſart</hi> flies,</l>
+            <l>Leaving her <hi>Young</hi> to her <hi>(fair-Enemies.)</hi>
+            </l>
+            <l>It chanc'd <hi>Alpheus</hi> ſaw them in ſome Grove,</l>
+            <l>(Or pleaſant-<hi>Grotto</hi> where they us'd to Rove,)</l>
+            <l>And with fair <hi>Arethuſa</hi> fell in Love.</l>
+            <l>The <hi>Beauteous-Nymph</hi> deriv'd from <hi>Angels-Race,</hi>
+            </l>
+            <l>Was cloath'd in <hi>Green</hi> fine-laid with <hi>Silver-lace;</hi>
+            </l>
+            <l>Her <hi>Golden-Quiver</hi> hanging by her ſide,</l>
+            <l>Whoſe <hi>Shafts</hi> were with the <hi>Princely-Purple</hi> dy'd.</l>
+            <l>About her Shoulders playd her Flowing-hair,</l>
+            <l>Her Neck was deckt with <hi>Pearl</hi> which Seas prepare,</l>
+            <l>And lookt like ſome <hi>brave-Altar</hi> which men Rear.</l>
+            <l>To Offer <hi>Divine-Sacrifice</hi> thereon,</l>
+            <l>(As <hi>Trophies</hi> after <hi>War</hi> and <hi>Battel</hi> done.)</l>
+            <l>Pure as the <hi>Aſſyrian-Monarchs-Sacred-Fire,</hi>
+            </l>
+            <l>Which all his humble-Subjects did admire.</l>
+            <l>
+               <hi>Alpheus</hi> with a Lovers Cunning-art,</l>
+            <l>Tries to Imprint <hi>warm-words</hi> upon her heart;</l>
+            <l>Beſieges cloſe the <hi>Beauteous-Cittadel,</hi>
+            </l>
+            <l>(Where all the <hi>Sweet-Triumphant-Graces</hi> dwell,</l>
+            <l>Like ſome Great <hi>Scipio,</hi> or brave <hi>Hannibal.</hi>
+            </l>
+            <l>But all in vain, the <hi>Nymph's</hi> unconquered-Mind,</l>
+            <l>Remains as free as any <hi>Mountain-wind:</hi>
+            </l>
+            <l>
+               <pb n="41" facs="tcp:99713:27"/>Wiſely ſhe does Reſolve never to prove,</l>
+            <l>The <hi>Various Perils</hi> that attend on Love;</l>
+            <l>Nor alter her <hi>unſullied Virgin-State,</hi>
+            </l>
+            <l>For a more Careful, and unfortunate.</l>
+            <l>Who'd change a <hi>Happineſs</hi> both firm, and true,</l>
+            <l>(<hi>A Happineſs</hi> that <hi>Heav'n</hi> ſtands <hi>Witneſs</hi> to.)</l>
+            <l>
+               <hi>A Happineſs</hi> with <hi>Deareſt-wiſdom</hi> bought,</l>
+            <l>For <hi>Tranſitory-Love</hi> (the <hi>Itch of Thought.</hi>)</l>
+            <l>None but a Slave wou'd wear his <hi>Ponderous-Chains,</hi>
+            </l>
+            <l>Obey his <hi>Simpleneſs,</hi> endure his <hi>Pains.</hi>
+            </l>
+            <l>(What want the <hi>Birds?</hi> how ſweetly do they live,)</l>
+            <l>They Drink the <hi>Diamond-Dew</hi> that <hi>Heav'n</hi> doth give,</l>
+            <l>And pay in <hi>Songs</hi> for what they do receive.</l>
+            <l>They take the <hi>Pleaſures</hi> of the <hi>Pathleſs-Air,</hi>
+            </l>
+            <l>Unclog'd they mount, and ramble every where,</l>
+            <l>Not knowing any <hi>Self-deſtroying-Care.</hi>
+            </l>
+            <l>In ſhort, they live like their <hi>Creator</hi> free,</l>
+            <l>Not like <hi>Dull-Man</hi> (the <hi>Worlds Epitomy.</hi>)</l>
+            <l>Man's like the <hi>Fly</hi> that in the Furnace-Springs.</l>
+            <l>(The <hi>Fly Pyrauſta</hi> with its <hi>Flaming-wings.</hi>)</l>
+            <l>Without the <hi>Fire of Love</hi> he takes no joy,</l>
+            <l>Doating on that which doth his <hi>Youth</hi> deſtroy.</l>
+            <l>When once <hi>Alpheus</hi> found he could not move,</l>
+            <l>Nor make <hi>Fair-Arethuſa</hi> think of Love;</l>
+            <l>Rudely within his <hi>Arms</hi> the Maid did Preſs,</l>
+            <l>(By Violence to get a Happineſs.)</l>
+            <l>
+               <pb n="42" facs="tcp:99713:28"/>Who calling on <hi>Diana</hi> for her <hi>Aid,</hi>
+            </l>
+            <l>Into a <hi>Cryſtal-Fountain</hi> chang'd the <hi>Maid:</hi>
+            </l>
+            <l>So the <hi>Soft-Ermin</hi> is in <hi>Whiteneſs</hi> ſeen,</l>
+            <l>(So carefully She keeps her Self, ſo Clean;</l>
+            <l>She won't endure the <hi>Sweaty-Hunters-Touch,</hi>
+            </l>
+            <l>Nor towards a <hi>ſullied-Creature</hi> will approach.</l>
+            <l>This <hi>Beauteous-Nymph,</hi> fearing She might be found</l>
+            <l>By <hi>falſe-Alpheus,</hi> runneth under Ground,</l>
+            <l>In ſecret-Channels, and ſuch hatred bears,</l>
+            <l>She ſuffers not his <hi>Stream</hi> to mix with hers:</l>
+            <l>Such <hi>Spight</hi> there was (if we may Credit <hi>Fame</hi>)</l>
+            <l>Between two <hi>Brothers</hi> in the <hi>Funeral-flame;</hi>
+            </l>
+            <l>Their <hi>burning-Bones</hi> ſtrangely divided were,</l>
+            <l>And ſeem'd to ſight <hi>aſcending in the Air.</hi>
+            </l>
+         </div>
+         <div type="poem">
+            <pb n="43" facs="tcp:99713:28"/>
+            <head>HIPPOMANES and ATTALANTA.</head>
+            <argument>
+               <head>The Argument.</head>
+               <p>
+                  <hi>Hippomanes</hi> was the Son of <hi>Macareus,</hi> he fell in Love with <hi>Attalanta,</hi> who had Vow'd <hi>Virginity;</hi> (only this Condition ſhe propo<g ref="char:EOLhyphen"/>ſed to her <hi>Wooers</hi>) That they ſhould run a Race with her Unarmed, and ſhe ſhould be allowed to have a <hi>Dart,</hi> and if ſhe out-ran them, ſhe ſhould kill them with her <hi>Dart,</hi> but he that out-ran her ſhould have her to Wife: Now when ſhe had been the Death of many <hi>Wooers, Hippomanes</hi> durſt not well truſt to his Feet, therefore he beſought <hi>Venus</hi> to help him, who gave him <hi>Three Golden-Apples,</hi> and taught him how he ſhould uſe them. Whereupon he undertook the Race; and when he ſaw ſhe was even at his Heels, and ready to catch him, he threw the <hi>Golden-Apples</hi>
+                  <pb n="44" facs="tcp:99713:29"/>three ſeveral ways, a great way off, with <hi>whoſe Beauty</hi> ſhe was ſo allured, that ſhe could not refrain from gathering them up; the whilſt <hi>Hippomanes</hi> won the <hi>Race,</hi> and Her; Afterwards he forgot to be thank<g ref="char:EOLhyphen"/>full to <hi>Venus,</hi> and ſhe in Revenge bewitch<g ref="char:EOLhyphen"/>ed him to ſuch Luſt, that he lay with his Wife in the <hi>Temple</hi> of <hi>Mars: Cybile</hi> taking the Matter hainouſly, transformed him into a <hi>Lion,</hi> and ſhe into a <hi>Lioneſs.</hi>
+               </p>
+            </argument>
+            <l>AFter that ſundry <hi>Nobles</hi> ſought to move</l>
+            <l>
+               <hi>Fair Attalanta,</hi> and had vainly ſtrove;</l>
+            <l>The <hi>Youth Hippomanes</hi> doth fall in Love.</l>
+            <l>This <hi>Nymph</hi> had <hi>vow'd Virginity,</hi> unleſs</l>
+            <l>
+               <hi>Her Wooers</hi> could out-run her in a <hi>Race;</hi>
+            </l>
+            <l>The <hi>Loſs</hi> was <hi>Death,</hi> the <hi>Prize a Beauteous Face.</hi>
+            </l>
+            <l>She was to be allowed to have a <hi>Dart,</hi>
+            </l>
+            <l>And if ſhe won, to <hi>pierce</hi> her <hi>Lovers Heart.</hi>
+            </l>
+            <l>Many brave Men that ſought her for a Wife,</l>
+            <l>Not <hi>ſtaggering</hi> at the <hi>Danger,</hi> loſt their Life.</l>
+            <l>The <hi>Nimble Roe</hi> ſhe would have left behind,</l>
+            <l>That <hi>trips</hi> o're <hi>Mountains,</hi> and out-flies the Wind.</l>
+            <l>
+               <pb n="45" facs="tcp:99713:29"/>
+               <hi>Fame</hi> flies not faſter, when he is to bring</l>
+            <l>Tydings of <hi>Trophies</hi> to ſome <hi>Happy King.</hi>
+            </l>
+            <l>The Youth conſidering <hi>Peril</hi> tract <hi>Delay,</hi>
+            </l>
+            <l>That Expedition was to win the <hi>Day.</hi>
+            </l>
+            <l>And that he durſt not truſt to his own <hi>Feet,</hi>
+            </l>
+            <l>And that his <hi>Life</hi> was like her <hi>Beauty-ſweet.</hi>
+            </l>
+            <l>In a ſtrange Conflict betwixt <hi>Hope</hi> and <hi>Fear,</hi>
+            </l>
+            <l>To <hi>Venus Guilded-Temple</hi> doth <hi>Repair;</hi>
+            </l>
+            <l>Where <hi>choice Corinthian-Marble-Pillars</hi> riſe,</l>
+            <l>Curiouſly fram'd after the <hi>Dorick-guiſe.</hi>
+            </l>
+            <l>Here he beſought the <hi>Goddeſs</hi> for <hi>Releife,</hi>
+            </l>
+            <l>To take compaſſion on his <hi>Youth,</hi> and <hi>Grief.</hi>
+            </l>
+            <l>The <hi>Gentle Queen,</hi> unwilling to deſtroy</l>
+            <l>The Expectations of the <hi>Beauteous-Boy;</hi>
+            </l>
+            <l>Brings him <hi>Three Golden Apples</hi> from her <hi>Grove,</hi>
+            </l>
+            <l>And bids him fling the <hi>Fruit</hi> before his <hi>Love.</hi>
+            </l>
+            <l>The Youth now chearfully doth undertake</l>
+            <l>To run the <hi>Race,</hi> and doth <hi>Lifes-Jewel</hi> ſtake.</l>
+            <l>And by a Wile <hi>fair Attalanta</hi> ſtays,</l>
+            <l>Flinging the <hi>Golden-Apples</hi> ſeveral ways;</l>
+            <l>Which when ſhe ſaw <hi>lie ſhining</hi> on the <hi>Place,</hi>
+            </l>
+            <l>She ſtoopt to take them up, and loſt the <hi>Race.</hi>
+            </l>
+            <l>By <hi>Golden-Birdlime,</hi> thus the <hi>Maid</hi> was caught,</l>
+            <l>
+               <hi>Allur'd,</hi> and to the <hi>Net-of-Marriage</hi> brought.</l>
+            <l>Such <hi>Sacred Power</hi> lies hidden in the <hi>Sand,</hi>
+            </l>
+            <l>That <hi>glitters</hi> on the <hi>Fam'd Pactolus Strand.</hi>
+            </l>
+            <l>
+               <pb n="46" facs="tcp:99713:30"/>
+               <hi>Gold</hi> is the <hi>Byas</hi> of the <hi>World</hi> we ſee,</l>
+            <l>And makes Men <hi>turn</hi> from all <hi>indifferency.</hi>
+            </l>
+            <l>It <hi>catches Coyeſt Beauties</hi> in its <hi>Snare,</hi>
+            </l>
+            <l>And ſtrangely <hi>melts the Froſty-<g ref="char:V">Ʋ</g>ſurer.</hi>
+            </l>
+            <l>But (ah) the careleſs <hi>Youth</hi> forgets from whom</l>
+            <l>His Glorious Fortune and Succeſs did come;</l>
+            <l>Forgets his <hi>Sacred Goddeſs,</hi> and her <hi>Grove,</hi>
+            </l>
+            <l>Forgets, She gave him both his <hi>Life</hi> and <hi>Love.</hi>
+            </l>
+            <l>For which neglect, the <hi>Angry-Deity</hi>
+            </l>
+            <l>Plagues him with <hi>burning-Luſt,</hi> and <hi>Infamy:</hi>
+            </l>
+            <l>Makes him to lie with his <hi>New-conquered-Fair,</hi>
+            </l>
+            <l>In the <hi>Old Temple</hi> of the <hi>God of War.</hi>
+            </l>
+            <l>And <hi>Cybele</hi> enrag'd (as Authors gueſs)</l>
+            <l>Changed them both for their audaciouſneſs,</l>
+            <l>Into a <hi>Lion,</hi> and a <hi>Lioneſs.</hi>
+            </l>
+            <l>
+               <hi>Ingratitude</hi> by <hi>Devils</hi> firſt came in,</l>
+            <l>It wears the <hi>deepeſt-black</hi> of any <hi>Sin.</hi>
+            </l>
+            <l>The <hi>Grateful-Stork,</hi> when by a Chance it found,</l>
+            <l>A <hi>Lovely-ſparkling-Gem</hi> upon the Ground,</l>
+            <l>Convey'd it to a <hi>Maid</hi> that <hi>cur'd</hi> him of a <hi>Wound.</hi>
+            </l>
+         </div>
+         <div type="poem">
+            <pb n="47" facs="tcp:99713:30"/>
+            <head>PROMETHEUS.</head>
+            <argument>
+               <head>The Argument.</head>
+               <p>
+                  <hi>Prometheus</hi> was the Son of <hi>Japetus,</hi> the Father of <hi>Deucalion,</hi> he was the firſt that made <hi>Man of Clay;</hi> Whoſe <hi>Wit Miner<g ref="char:EOLhyphen"/>va</hi> ſo Admir'd, that ſhe promis'd him any thing in <hi>Heaven</hi> that he would ask: To perfect his <hi>Work,</hi> he deſired her to take him up into <hi>Heaven,</hi> and when he came there, and had looked about him, he ſaw all things were <hi>Animated,</hi> or had <hi>Souls,</hi> by <hi>Hea<g ref="char:EOLhyphen"/>venly Fire;</hi> Therefore having a little <hi>Fe<g ref="char:EOLhyphen"/>rula</hi> in his <hi>Hand,</hi> he put it to the <hi>Char<g ref="char:EOLhyphen"/>riot-wheel</hi> of the <hi>Sun,</hi> and being <hi>kin<g ref="char:EOLhyphen"/>dled,</hi> he brought <hi>Fire</hi> to the <hi>Earth,</hi> and put therewith <hi>Life</hi> and <hi>Soul</hi> into his <hi>Man</hi> that he had made of <hi>Clay;</hi> but <hi>Jupiter</hi>
+                  <pb n="48" facs="tcp:99713:31"/>being Angry, ſent <hi>Pandora</hi> with a <hi>Box,</hi> wich after he had opened, there flew out thence <hi>ſundry-ſorts of Diſeaſes.</hi>
+               </p>
+            </argument>
+            <l>SO Excellent and ſo Divine is Wit,</l>
+            <l>All things like Vaſſalage ſubmit to it;</l>
+            <l>(Of yore) the little <hi>Bees</hi> kept <hi>Holiday,</hi>
+            </l>
+            <l>And on the Poet-<hi>Pindar's</hi>-Lips did play,</l>
+            <l>Dropt <hi>Honey</hi> on him while he <hi>ſleeping</hi> lay:</l>
+            <l>Sweet as thoſe Drops here <hi>Numbers</hi> we ſhould mould,</l>
+            <l>And ſhew <hi>fair Helen's</hi> Picture ſet in Gold.</l>
+            <l>
+               <hi>Wit</hi> round the <hi>Hemiſphere</hi> his <hi>Rays</hi> hath hurld,</l>
+            <l>And like the <hi>Sun</hi>'s admir'd by all the World.</l>
+            <l>Even on Poot-<hi>Lunaticks</hi> doth <hi>Beams</hi> beſtow,</l>
+            <l>As <hi>Stars</hi> enlighten Wretched <hi>Souls</hi> below.</l>
+            <l>
+               <hi>Wit</hi> is the <hi>Mirror</hi> in <hi>Arcadia,</hi> —vvhere</l>
+            <l>When <hi>Zealous-Sojourners</hi> reſorted-there.</l>
+            <l>Strangely they ſaw inſtead of their own Face,</l>
+            <l>The <hi>Deity</hi> they Worſhipt in the Glaſs.</l>
+            <l>This Great-<hi>Divinity</hi> (as <hi>Poets</hi> feign)</l>
+            <l>Takes up his <hi>Earhtly-lodging</hi> in the <hi>Brain:</hi>
+            </l>
+            <l>Where the <hi>frail-Soul</hi> doth wonderous <hi>Beams diſplay,</hi>
+            </l>
+            <l>(Whoſe <hi>Glorious-flight</hi> is checkt, and clog'd in <hi>Clay.</hi>)</l>
+            <l>In praiſing it we do but <hi>Folly</hi> ſhow,</l>
+            <l>Wee <hi>ſmooth</hi> the <hi>Ice, Perfumes</hi> on <hi>Violets</hi> ſtrow.</l>
+            <l>
+               <pb n="49" facs="tcp:99713:31"/>What though <hi>Timanthes</hi> has his <hi>Cyclops</hi> Drawn,</l>
+            <l>And great <hi>Pharraſius</hi> counterfeited Lawn.</l>
+            <l>For <hi>Venus</hi> (fam'd <hi>Apelles</hi> could not tell)</l>
+            <l>Where to draw out, or fetch a Paralel.</l>
+            <l>Nor we ſufficient Praiſes can beſtow,</l>
+            <l>What <hi>Gods</hi> above, and <hi>Men</hi> affect below.</l>
+            <l>The pureſt <hi>Thoughts</hi> are mixt vvith <hi>dull Allays,</hi>
+            </l>
+            <l>As all our <hi>Stories,</hi> are but <hi>groſs Eſſays.</hi>
+            </l>
+            <l>In vain at <hi>Excellence</hi> we reach,</l>
+            <l>In vain (alas) 'tis too ſublime a Pitch.</l>
+            <l>From <hi>Imperfections</hi> none are free,</l>
+            <l>In the <hi>bleſt Sun</hi> ſome <hi>Spots</hi> there ſeem to be.</l>
+            <l>
+               <hi>Perfection</hi> is a <hi>Bird</hi> that Perches high,</l>
+            <l>Far from the Sight of any <hi>Humane Eye.</hi>
+            </l>
+            <l>After the <hi>greater Worlds Epitomy,</hi>
+            </l>
+            <l>Was by <hi>Prometheus</hi> made in <hi>Imagery.</hi>
+            </l>
+            <l>As <hi>Man</hi> vvithin his <hi>Mighty Cradle</hi> lay,</l>
+            <l>(That vvas <hi>Originally</hi> made of <hi>Clay.</hi>)</l>
+            <l>Even vvhen the <hi>Earthly-Creature</hi> vvanted yet,</l>
+            <l>Both <hi>Life</hi> and <hi>Motion</hi> that doth <hi>Heat</hi> beget.</l>
+            <l>
+               <hi>Minerva</hi> ſo admir'd the <hi>Beauteous Sight,</hi>
+            </l>
+            <l>(<hi>Beauteous</hi> as <hi>Diamonds</hi> in their <hi>Native-light.</hi>)</l>
+            <l>She promis'd that the richeſt Gift in Heaven,</l>
+            <l>To the <hi>Great Artiſt</hi> ſhould be freely giv'n.</l>
+            <l>
+               <hi>Prometheus</hi> Wittingly deſires to ſee,</l>
+            <l>The <hi>Palace</hi> of the <hi>Radiant-Deity.</hi>
+            </l>
+            <l>
+               <pb n="50" facs="tcp:99713:32"/>Where all the <hi>Gods</hi> do on <hi>Sweet Nectar Feaſt,</hi>
+            </l>
+            <l>Where <hi>Hallowed-light</hi> is hatched in the <hi>Eaſt.</hi>
+            </l>
+            <l>Where <hi>Stars</hi> Ennamel all the <hi>Firmament.</hi>
+            </l>
+            <l>And ſerve as <hi>Torches</hi> to the <hi>Omnipotent.</hi>
+            </l>
+            <l>Soon did the <hi>Wind,</hi> and the <hi>Obſequious Air,</hi>
+            </l>
+            <l>Into the Walks of Clouds <hi>Prometheus bear;</hi>
+            </l>
+            <l>Who vvondring, Views the higher Heav'ns <hi>bright-face,</hi>
+            </l>
+            <l>And through the Paths of Matter, <hi>Maze</hi> doth trace:</l>
+            <l>He <hi>Natures mighty Work</hi> in pieces took,</l>
+            <l>Into her <hi>Labour,</hi> and her <hi>Art</hi> did look;</l>
+            <l>And made <hi>Remarks,</hi> that all he did <hi>Admire,</hi>
+            </l>
+            <l>Was <hi>Animated</hi> by <hi>Celeſtial-Eire.</hi>
+            </l>
+            <l>To Perfect therefore what he had begun,</l>
+            <l>He lights his little <hi>Ferul</hi> at the <hi>Sun;</hi>
+            </l>
+            <l>And ſteals away to <hi>Earth,</hi> and doth beſtow</l>
+            <l>A <hi>Soul</hi> on <hi>Man</hi> vvhom he affected ſo.</l>
+            <l>This <hi>Curious-Workman</hi> that vvell underſtood,</l>
+            <l>To make a <hi>Mercury</hi> of any Wood,</l>
+            <l>Taught him to ſep'rate Evil-things from good.</l>
+            <l>Imprinted ſoft <hi>Impreſſures</hi> like a Seal,</l>
+            <l>And made him ſtrangely Vigorous-Motions feel.</l>
+            <l>As on the <hi>Earth, Dews</hi> unperceiv'd do fall,</l>
+            <l>So <hi>Life,</hi> and <hi>Wit,</hi> and <hi>Growth,</hi> did ſteal on all.</l>
+            <l>Thus <hi>Man</hi> vvith all <hi>Choice Excellence</hi> did ſhine,</l>
+            <l>And lookt as Bright, as Glorious, and as Fine,</l>
+            <l>As the <hi>Fair-Firmament</hi> all o're Divine.</l>
+            <l>
+               <pb n="51" facs="tcp:99713:32"/>And now he Smiles vvith <hi>Admirable Grace,</hi>
+            </l>
+            <l>The lovely <hi>Dimples</hi> do adorn his <hi>Face.</hi>
+            </l>
+            <l>And now all Creatures do Salute their <hi>King,</hi>
+            </l>
+            <l>Salute him as the <hi>Flowers</hi> the <hi>Virgin-Spring:</hi>
+            </l>
+            <l>And he to them Diſtributes every Way,</l>
+            <l>
+               <hi>Glances</hi> as <hi>Beauteous</hi> as the <hi>Burniſht-Day.</hi>
+            </l>
+            <l>The <hi>Cryſtal Rivolets</hi> do Glide, and Creep,</l>
+            <l>And ſtrive vvho firſt ſhall vvaſh his <hi>Snowy-feet.</hi>
+            </l>
+            <l>The jarring Winds and Waters did agree,</l>
+            <l>And made a <hi>Conſort</hi> of <hi>Sweet-harmony;</hi>
+            </l>
+            <l>Till <hi>Angry Jove Pandora</hi> ſent, vvho brought,</l>
+            <l>A <hi>Direful Box</hi> vvith all <hi>Diſeaſes</hi> fraught.</l>
+            <l>Whoſe general <hi>Contagion</hi> ſpread like Night,</l>
+            <l>That Shrouds and Muffles up the Chearful-Light.</l>
+            <l>Plagues flew like Shafts in Battel upon <hi>Man,</hi>
+            </l>
+            <l>(As on <hi>Callimachus</hi> at <hi>Marathon.</hi>)</l>
+            <l>So vvhen in unknown <hi>Deſarts</hi> Wit appears,</l>
+            <l>After ſome <hi>dark</hi> and <hi>dimal</hi> thouſand Years:</l>
+            <l>If once thoſe Gloomy Regions lighſom grow,</l>
+            <l>It ſtrangely to the <hi>Savage-Man</hi> doth ſhow</l>
+            <l>So ſtrangely, that it dazles his vveak Eye,</l>
+            <l>He gazes and imagines Plagues are nigh;</l>
+            <l>He <hi>Curſes</hi> it too ſome <hi>Remoter-ſhore,</hi>
+            </l>
+            <l>And vviſhes he may never ſee it more.</l>
+            <l>Thus after all his Care (inſtead of Gains)</l>
+            <l>It meets with <hi>Plagues</hi> and <hi>Curſes</hi> for its Pains.</l>
+            <l>
+               <pb n="52" facs="tcp:99713:33"/>(<hi>Tarquin</hi> the Proud) did carry in his Hand,</l>
+            <l>(For Policy not Uſe) a tender Wand;</l>
+            <l>With vvich he did behead the taller-Flowers,</l>
+            <l>As vvho ſhould ſay, be jealous of Great Powers:</l>
+            <l>And Cut them down vvhoſe State ne're equals Ours.</l>
+            <l>Great Souls ſhall always dangerous Fortunes <hi>run,</hi>
+            </l>
+            <l>Thoſe Birds ſhall be deſtroyd that Soar up to the <hi>Sun.</hi>
+            </l>
+            <l>The <hi>Eaſtern-Conqueror,</hi> vvhoſe Praiſe and Worth,</l>
+            <l>
+               <hi>Fame</hi> loudly round the <hi>Earth</hi> did <hi>Trumpet</hi> forth,</l>
+            <l>Amidſt his <hi>Early-Glories,</hi> and <hi>Renown,</hi>
+            </l>
+            <l>He Poyſoned Dies as ſoon as <hi>Fate</hi> doth <hi>Frown.</hi>
+            </l>
+            <l>Our Joys like <hi>Ephimeras</hi> poſt away,</l>
+            <l>Which vvhen they'r born, do live but one poor Day.</l>
+            <l>
+               <hi>Prometheus</hi> thought that from the <hi>Firmament,</hi>
+            </l>
+            <l>
+               <hi>Minerva</hi> ſome <hi>Celeſtial-Gift</hi> had ſent;</l>
+            <l>But vvhen he ſadly found himſelf <hi>beguild,</hi>
+            </l>
+            <l>He Mourn'd like <hi>Phoebus</hi> for his <hi>Faireſt-Child.</hi>
+            </l>
+            <l>Mourn'd that his <hi>Skill</hi> had found no other Gains,</l>
+            <l>Save thoſe of <hi>Plagues</hi> for his Obliging-Pains.</l>
+            <l>Mourn'd that he e're the <hi>Crime</hi> of <hi>Knowledge</hi> knew,</l>
+            <l>That by his <hi>Art</hi> Death <hi>proud,</hi> and <hi>witty, grew.</hi>
+            </l>
+            <l>Thus <hi>Sorrow</hi> ſoon <hi>Imbitter'd</hi> all <hi>Man's-State,</hi>
+            </l>
+            <l>(By <hi>Deſtiny</hi> Ordain'd <hi>unfortunate.</hi>)</l>
+            <l>So if a <hi>Tree</hi> be over topt with ſpight,</l>
+            <l>His Glory ſoon decayes, and withers quite.</l>
+            <l>
+               <pb n="53" facs="tcp:99713:33"/>Even the ſhaddow of the <hi>Thorny-Treſs,</hi>
+            </l>
+            <l>So ſorely will the gentle <hi>Plant Oppreſs.</hi>
+            </l>
+            <l>'Twill pine, and dye, while that doth proudly grow,</l>
+            <l>Proudly Triumphing in poor <hi>Miſletoe.</hi>
+            </l>
+            <l>The <hi>Aged Oak</hi> (if <hi>Fate</hi> to kind wou'd be,</l>
+            <l>Might full three hundred happy <hi>Summers</hi> ſee;</l>
+            <l>But if that <hi>Fatal-Steel</hi> his <hi>Heart-ſtrings</hi> Wound,</l>
+            <l>He lays his <hi>Reverend-Head</hi> upon the Ground.</l>
+            <l>To Day we will ſuppoſe ſome Man of worth,</l>
+            <l>The curious tender Leaves of <hi>Hope</hi> puts forth:</l>
+            <l>They bud perhaps to Morrow, and do bear</l>
+            <l>Moſt lovely Colours, fit for him to wear.</l>
+            <l>And now himſelf with various thoughts doth pleaſe,</l>
+            <l>Dreaming of Riches, Pleaſure, and of Eaſe.</l>
+            <l>The next Day comes a <hi>Froſt,</hi> a <hi>Killing Froſt,</hi>
+            </l>
+            <l>And thus his <hi>Ripening-Hopes,</hi> and <hi>Joys</hi> are loſt.</l>
+            <l>That <hi>Happineſs</hi> there is, Men find in <hi>Vales,</hi>
+            </l>
+            <l>
+               <hi>Content</hi> doth ſeat it ſelf in lowly <hi>Dales;</hi>
+            </l>
+            <l>Out of the force of <hi>Stormy Winds,</hi> and <hi>Harms,</hi>
+            </l>
+            <l>Free from <hi>Ambiton,</hi> and the noiſe of <hi>Arms.</hi>
+            </l>
+            <l>Here runs freſh cooling Streams, here ſprings ſweet Flowers,</l>
+            <l>Here Heat and Cold are fenc'd with ſhady Bowers.</l>
+            <l>Here pooreſt <hi>Beggars</hi> eat their <hi>Beans</hi> with <hi>Mirth,</hi>
+            </l>
+            <l>And leſſer <hi>Care,</hi> then <hi>Princes</hi> of the <hi>Earth;</hi>
+            </l>
+            <l>In <hi>Bleſſed-Ignorance,</hi> and <hi>Peace</hi> each lives,</l>
+            <l>Well pleas'd with whatſoever <hi>Nature</hi> gives.</l>
+            <l>
+               <pb n="54" facs="tcp:99713:34"/>Knowledge to ſome ſeems <hi>Good,</hi> to others <hi>Evil,</hi>
+            </l>
+            <l>Both <hi>White,</hi> and <hi>Black,</hi> an <hi>Angel,</hi> and a <hi>Devil.</hi>
+            </l>
+            <l>It is a dangerous <hi>Tutor</hi> full of harme,</l>
+            <l>We find it doth conſume, as well as warm.</l>
+            <l>Of all choice <hi>Arts,</hi> 'tis the undoubted ſource,</l>
+            <l>And has a ſtrange prodigious powerful force.</l>
+            <l>It ſtrangely doth refine the <hi>Rudeſt-Man,</hi>
+            </l>
+            <l>(<hi>Rude</hi> as the <hi>Chaos</hi> e're the World began.)</l>
+            <l>'Twill make a ſtubborn, rough <hi>Achilles</hi> yield,</l>
+            <l>Tempers as hard as <hi>Ajax</hi> ſeven-fold Shield.</l>
+            <l>But true it is, without a watchful care,</l>
+            <l>'Twill lead the Great, and Learned, to a Snare,</l>
+            <l>To ſtumble upon that which Fools beware.</l>
+            <l>How ſtrangely in a blew-bleak <hi>Winters-Night,</hi>
+            </l>
+            <l>From <hi>Moory-Grounds</hi> doth there ariſe a <hi>Light.</hi>
+            </l>
+            <l>Which when the <hi>Shepherd</hi> ſpies upon the Plain,</l>
+            <l>Strait to his <hi>Cot</hi> flies the poor ſimple Swain,</l>
+            <l>And leaves it to miſguide the ſearching Brain.</l>
+            <l>Theſe <hi>Myſteries</hi> ſome abler Pen may Paint,</l>
+            <l>Grieving, I view my Colour's Dark, and Faint.</l>
+            <l>With tender care I touch upon its worth,</l>
+            <l>Poor <hi>Flint</hi> doth only ſparks of Fire ſend forth.</l>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:99713:34"/>
+         </div>
+      </body>
+   </text>
+</TEI>
